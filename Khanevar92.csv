@@ -1,0 +1,1000 @@
+Year,Region,ProvinceCode,Province,Hgender,HAge,HLiterate,HEduYears,HEduLevel,HActivityState,HMarritalState,HEmployed,HUnemployed,HIncomeWOWork,Size,NKids,TotalIncome,EqSizeOECD,EqSizeRevOECD,NetExpenditure,NetIncome,PipedWater,Electricity,CookingFuel,HeatFuel,HotWaterFuel,HouseOwn,RoomCount,Area
+92,Rural,1,Guilan,Female,83,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,3840000,1,1,8108388,13094388,1,1,4,14,24,House,2,45
+92,Rural,10,Isfahan,Female,82,0,0,Illiterate,Housekeeper,Widowed,0,0,0,1,0,1500000,1,1,6704000,9890000,1,1,4,14,25,House,4,60
+92,Rural,9,Razavi Khorasan,Female,55,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,5400000,1,1,8473588,15854388,1,1,3,11,21,Free,1,25
+92,Rural,9,Razavi Khorasan,Female,72,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,7400000,1,1,9102388,16054388,1,1,4,14,24,Free,1,30
+92,Rural,4,West Azerbaijan,Male,76,0,0,Illiterate,Other,Married,0,0,0,2,0,2000000,1.7,1.5,12528776,17148776,1,1,1,11,21,House,1,25
+92,Rural,11,Sistan & Baluchistan,Male,49,0,0,Illiterate,Income without Work,Married,0,0,1,5,1,4200000,3.6,2.8,25940740,44183740,1,1,3,11,21,House,3,65
+92,Rural,25,Qom,Female,70,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,4800000,1,1,12145000,20940000,1,1,4,14,24,House,3,80
+92,Rural,25,Qom,Male,44,1,4,Primary,Income without Work,Bachelor,0,0,1,1,0,4080000,1,1,10727388,17934388,1,1,4,14,24,House,3,50
+92,Rural,0,Markazi,Female,75,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6400000,1,1,13261000,15740000,1,1,4,14,24,House,2,35
+92,Rural,0,Markazi,Male,28,1,6,Primary,Employed,Married,1,0,0,3,1,29550000,2.2,1.8,17492164,51913164,1,1,4,14,24,Free,2,20
+92,Rural,19,Zanjan,Female,30,0,0,Illiterate,Income without Work,Married,0,0,1,1,0,1000000,1,1,12274388,11624388,1,1,1,11,21,Free,1,40
+92,Rural,0,Markazi,Male,70,1,3,Primary,Employed,Married,1,0,0,3,0,9400000,2.4,2,24214000,35170000,1,1,4,14,24,House,3,80
+92,Rural,25,Qom,Female,70,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,19000000,1,1,11976388,31734388,1,1,3,11,23,House,2,60
+92,Rural,11,Sistan & Baluchistan,Male,65,0,0,Illiterate,Income without Work,Married,0,0,1,3,1,3600000,2.2,1.8,22020664,28318164,1,1,3,11,25,House,5,160
+92,Rural,11,Sistan & Baluchistan,Male,28,1,6,Primary,Unemployed,Married,0,1,0,6,4,12050000,3.7,2.7,31766828,53104328,1,1,3,11,21,Free,1,21
+92,Rural,0,Markazi,Female,70,0,0,Illiterate,Income without Work,Married,0,0,1,1,0,7250000,1,1,13351000,17190000,1,1,4,14,24,House,3,50
+92,Rural,0,Markazi,Female,59,0,0,Illiterate,Income without Work,Divorced,0,0,1,2,0,11300000,1.7,1.5,19332776,29068776,1,1,4,14,24,House,2,50
+92,Rural,12,Kurdistan,Male,28,1,11,Secondary,Employed,Married,1,0,0,2,1,27000000,1.5,1.3,17067576,42208776,1,1,3,11,21,Free,1,20
+92,Rural,11,Sistan & Baluchistan,Male,26,1,6,Primary,Employed,Married,1,0,0,3,1,35500000,2.2,1.8,22674164,65249164,1,1,3,11,23,House,1,45
+92,Rural,1,Guilan,Female,76,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,5400000,1,1,14296068,15254388,1,1,4,14,24,Free,1,12
+92,Rural,13,Hamedan,Male,27,1,9,Secondary,Unemployed,Married,0,1,0,4,2,20000000,2.7,2.1,1340952,49897552,1,1,4,14,24,House,3,68
+92,Rural,0,Markazi,Male,87,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,10100000,1.7,1.5,21992776,28348776,1,1,4,14,24,House,2,45
+92,Rural,13,Hamedan,Female,79,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,12000000,1,1,15190400,26710000,1,1,4,14,24,House,3,75
+92,Rural,0,Markazi,Female,75,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6800000,1,1,12923000,17340000,1,1,4,14,24,House,3,60
+92,Rural,12,Kurdistan,Male,36,1,2,Primary,Employed,Married,1,0,0,5,3,41000000,3.2,2.4,31074540,79801940,1,1,3,11,21,Free,3,80
+92,Rural,24,Ardebil,Female,89,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6750000,1,1,15728388,18404388,1,1,4,14,24,House,2,60
+92,Rural,25,Qom,Female,72,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,22000000,1,1,15270388,34734388,1,1,3,11,23,House,2,60
+92,Rural,11,Sistan & Baluchistan,Male,50,0,0,Illiterate,Employed,Married,1,0,0,7,5,15100000,4.2,3,46522885,56164885,NA,1,3,11,23,House,4,80
+92,Rural,13,Hamedan,Female,79,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6000000,1,1,17593400,18310000,1,1,4,14,24,House,2,50
+92,Rural,26,Qazvin,Female,86,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,16800000,1,1,16585000,30740000,1,1,4,14,24,Free,2,30
+92,Rural,13,Hamedan,Male,75,0,0,Illiterate,Employed,Married,1,0,0,4,0,63000000,3.1,2.5,40009552,94697552,1,1,4,14,24,House,4,72
+92,Rural,19,Zanjan,Female,50,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,4600000,1,1,17824000,15710000,1,1,3,11,21,House,2,30
+92,Rural,11,Sistan & Baluchistan,Male,30,1,6,Primary,Employed,Married,1,0,0,6,4,48000000,3.7,2.7,41715928,97376328,NA,1,3,11,23,House,4,80
+92,Rural,19,Zanjan,Female,65,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6960000,1,1,17187388,17584388,1,1,4,14,24,Free,2,35
+92,Rural,3,East Azerbaijan,Female,40,0,0,Illiterate,Income without Work,Divorced,0,0,1,2,1,5600000,1.5,1.3,20718776,25478776,1,1,1,11,21,Free,2,60
+92,Rural,28,North Khorasan,Male,48,0,0,Illiterate,Employed,Married,1,0,0,6,2,41500000,4.1,3.1,56487000,85180000,1,1,4,14,30,Free,3,80
+92,Rural,28,North Khorasan,Female,81,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,8000000,1,1,16955388,17754388,1,1,1,11,30,Free,1,25
+92,Rural,1,Guilan,Male,76,0,0,Illiterate,Income without Work,Widowed,0,0,1,4,0,44600000,3.1,2.5,41764512,79217552,1,1,4,14,24,House,3,75
+92,Rural,25,Qom,Male,49,1,6,Primary,Employed,Married,1,0,0,4,1,59400000,2.9,2.3,31780552,96217552,1,1,4,14,24,House,2,45
+92,Rural,11,Sistan & Baluchistan,Male,33,1,2,Primary,Unemployed,Married,0,1,0,8,6,9800000,4.7,3.3,53893104,47305104,1,1,3,11,21,House,1,18
+92,Rural,7,Fars,Male,29,1,4,Primary,Employed,Married,1,0,0,5,1,18200000,3.6,2.8,49548000,57150000,1,1,3,11,23,Free,3,60
+92,Rural,11,Sistan & Baluchistan,Female,25,0,0,Illiterate,Income without Work,Bachelor,0,0,1,3,0,3000000,2.4,2,33436664,25873164,1,1,3,11,21,Free,2,36
+92,Rural,28,North Khorasan,Female,20,1,5,Primary,Income without Work,Divorced,0,0,1,1,0,10000000,1,1,18475388,19754388,1,1,3,11,30,Free,2,45
+92,Rural,30,Alborz,Male,45,1,4,Primary,Employed,Married,1,0,0,5,2,49200000,3.4,2.6,49209000,88655000,1,1,4,14,24,House,2,35
+92,Rural,8,Kerman,Male,40,1,6,Primary,Employed,Married,1,0,0,4,1,13000000,2.9,2.3,35405588,45417552,1,1,3,11,23,House,2,30
+92,Rural,28,North Khorasan,Male,65,0,0,Illiterate,Employed,Married,1,0,0,2,0,15200000,1.7,1.5,26131776,38048776,1,1,3,11,21,House,3,85
+92,Rural,11,Sistan & Baluchistan,Female,37,0,0,Illiterate,Housekeeper,Married,0,0,0,2,1,0,1.5,1.3,22804276,11338776,1,1,3,11,21,House,3,52
+92,Rural,8,Kerman,Female,82,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6400000,1,1,17955988,16774388,1,1,3,11,21,House,2,60
+92,Rural,0,Markazi,Male,67,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,6800000,1.7,1.5,26663776,23788776,1,1,4,14,24,House,3,100
+92,Rural,8,Kerman,Male,93,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,5500000,1.7,1.5,27856776,24996776,1,1,3,11,21,House,1,12
+92,Rural,0,Markazi,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,14500000,1.7,1.5,25153776,31008776,1,1,4,14,24,House,2,50
+92,Rural,11,Sistan & Baluchistan,Male,68,0,0,Illiterate,Employed,Married,1,0,0,5,0,47200000,3.8,3,54377940,98521940,1,1,3,11,23,House,3,70
+92,Rural,0,Markazi,Female,68,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,12800000,1.7,1.5,33576000,31480000,1,1,4,14,24,House,4,75
+92,Rural,28,North Khorasan,Male,89,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,9000000,1,1,18967388,19304388,1,1,1,16,21,House,1,15
+92,Rural,13,Hamedan,Male,48,0,0,Illiterate,Employed,Married,1,0,0,6,2,45900000,4.1,3.1,51273328,89846328,1,1,3,11,21,House,3,80
+92,Rural,25,Qom,Female,55,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,81600000,1.7,1.5,27784776,109308776,1,1,4,14,24,House,5,150
+92,Rural,26,Qazvin,Female,65,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,8400000,1,1,19711388,18854388,1,1,3,11,23,House,2,30
+92,Rural,8,Kerman,Female,71,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,7000000,1,1,20334388,18224388,1,1,3,11,21,House,2,40
+92,Rural,11,Sistan & Baluchistan,Male,26,1,6,Primary,Employed,Married,1,0,0,4,2,17200000,2.7,2.1,38599552,47097552,1,1,3,11,21,House,2,38
+92,Rural,28,North Khorasan,Female,57,0,0,Illiterate,Employed,Widowed,1,0,0,3,0,28500000,2.4,2,42960164,78723164,1,1,4,14,24,House,3,75
+92,Rural,11,Sistan & Baluchistan,Male,34,0,0,Illiterate,Unemployed,Married,0,1,0,6,4,11150000,3.7,2.7,49525328,49769328,1,1,3,11,21,House,1,24
+92,Rural,25,Qom,Male,32,1,9,Secondary,Employed,Married,1,0,0,3,1,115000000,2.2,1.8,35744164,140963164,1,1,4,14,24,Free,2,50
+92,Rural,25,Qom,Male,33,1,6,Primary,Employed,Married,1,0,0,3,1,84000000,2.2,1.8,30555164,112363164,1,1,4,14,24,House,3,70
+92,Rural,3,East Azerbaijan,Male,55,0,0,Illiterate,Employed,Married,1,0,0,4,1,68550000,2.9,2.3,61107552,103547552,1,1,6,16,26,House,1,30
+92,Rural,13,Hamedan,Male,54,0,0,Illiterate,Employed,Married,1,0,0,4,1,20000000,2.9,2.3,47873552,53497552,1,1,4,14,24,House,3,63
+92,Rural,5,Kermanshah,Female,70,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,0,5400000,2.4,2,37789564,38583164,1,1,3,11,21,House,3,50
+92,Rural,9,Razavi Khorasan,Male,89,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,20000000,1.7,1.5,28948776,44798776,1,1,3,11,30,House,3,50
+92,Rural,11,Sistan & Baluchistan,Male,35,1,9,Secondary,Employed,Married,1,0,0,6,4,21400000,3.7,2.7,52227828,60944328,1,1,3,11,25,House,6,160
+92,Rural,20,Semnan,Male,37,0,0,Illiterate,Employed,Married,1,0,0,4,2,18000000,2.7,2.1,39499552,47097552,1,1,4,14,24,House,4,80
+92,Rural,1,Guilan,Male,87,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,12000000,1.7,1.5,31036400,34060000,1,1,4,14,24,House,3,90
+92,Rural,8,Kerman,Male,33,0,0,Illiterate,Employed,Married,1,0,0,5,3,17900000,3.2,2.4,45988740,57311140,1,1,3,11,21,House,2,60
+92,Rural,1,Guilan,Male,70,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,6400000,1.7,1.5,29253816,28508776,NA,1,4,14,24,Free,3,80
+92,Rural,0,Markazi,Male,47,1,6,Primary,Employed,Married,1,0,0,7,3,77950000,4.6,3.4,84251716,126130716,1,1,4,14,24,House,4,80
+92,Rural,11,Sistan & Baluchistan,Female,25,0,0,Illiterate,Housekeeper,Married,0,0,0,3,2,0,2,1.6,30961164,22873164,1,1,3,11,21,Free,2,38
+92,Rural,11,Sistan & Baluchistan,Male,35,1,9,Secondary,Unemployed,Married,0,1,0,5,3,7150000,3.2,2.4,46017440,41761940,1,1,3,11,21,House,1,21
+92,Rural,28,North Khorasan,Male,20,1,6,Primary,Employed,Bachelor,1,0,0,6,2,37900000,4.1,3.1,56462328,76146328,1,1,3,11,21,House,3,80
+92,Rural,7,Fars,Female,79,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,8400000,1,1,22292000,22797000,1,1,4,14,24,House,3,70
+92,Rural,13,Hamedan,Male,71,0,0,Illiterate,Employed,Widowed,1,0,0,1,0,11000000,1,1,20346388,23844388,1,1,3,11,21,House,2,25
+92,Rural,11,Sistan & Baluchistan,Male,32,1,6,Primary,Unemployed,Married,0,1,0,6,4,7200000,3.7,2.7,55424328,50939328,1,1,3,11,21,House,1,24
+92,Rural,7,Fars,Male,51,0,0,Illiterate,Employed,Married,1,0,0,4,0,36500000,3.1,2.5,56132552,78917552,1,1,3,11,23,House,4,100
+92,Rural,4,West Azerbaijan,Male,30,1,6,Primary,Employed,Married,1,0,0,3,1,-6350000,2.2,1.8,36163164,30773164,1,1,3,11,21,House,2,60
+92,Rural,9,Razavi Khorasan,Female,70,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,32000000,1,1,23061388,41104388,1,1,4,14,24,House,2,50
+92,Rural,19,Zanjan,Male,37,1,6,Primary,Employed,Married,1,0,0,5,3,54400000,3.2,2.4,47560940,92521940,1,1,4,14,24,Free,3,60
+92,Rural,28,North Khorasan,Male,46,0,0,Illiterate,Employed,Married,1,0,0,5,2,34000000,3.4,2.6,55946940,77171940,1,1,3,11,21,House,5,120
+92,Rural,9,Razavi Khorasan,Male,53,1,4,Primary,Employed,Married,1,0,0,5,1,66000000,3.6,2.8,58624540,108689940,1,1,4,14,24,House,3,80
+92,Rural,9,Razavi Khorasan,Female,68,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,8400000,1.7,1.5,32234096,28564776,1,1,3,11,21,House,2,30
+92,Rural,3,East Azerbaijan,Female,54,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,4800000,1,1,20226388,14824388,1,1,4,14,24,House,3,110
+92,Rural,15,Lorestan,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,7000000,2.2,1.8,30358164,31073164,1,1,3,11,23,Free,2,40
+92,Rural,25,Qom,Male,54,1,6,Primary,Employed,Married,1,0,0,5,2,83000000,3.4,2.6,54699940,124921940,1,1,4,14,24,House,2,80
+92,Rural,5,Kermanshah,Female,76,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,7000000,1,1,22187188,25424388,1,1,3,11,23,Free,1,15
+92,Rural,28,North Khorasan,Male,72,0,0,Illiterate,Employed,Married,1,0,0,2,0,10000000,1.7,1.5,32741536,29268776,1,1,4,14,24,House,2,45
+92,Rural,8,Kerman,Male,77,0,0,Illiterate,Employed,Married,1,0,0,2,0,24000000,1.7,1.5,33467776,48488776,1,1,3,11,21,House,5,160
+92,Rural,0,Markazi,Male,77,1,3,Primary,Employed,Married,1,0,0,2,0,26100000,1.7,1.5,48994000,43700000,1,1,4,14,24,House,3,120
+92,Rural,28,North Khorasan,Male,62,0,0,Illiterate,Employed,Married,1,0,0,6,1,96000000,4.3,3.3,66680328,144566328,1,1,3,11,30,House,3,85
+92,Rural,15,Lorestan,Male,51,1,2,Primary,Employed,Married,1,0,0,2,0,30000000,1.7,1.5,32624776,61738776,1,1,3,11,23,House,4,60
+92,Rural,25,Qom,Male,46,1,6,Primary,Employed,Married,1,0,0,4,2,80500000,2.7,2.1,43912552,115837552,1,1,4,14,24,House,3,140
+92,Rural,28,North Khorasan,Female,82,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6000000,1,1,22662388,11574388,1,1,4,14,24,Rental,1,12
+92,Rural,0,Markazi,Male,99,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,1800000,1.7,1.5,35012000,20480000,1,1,4,14,24,House,6,110
+92,Rural,26,Qazvin,Male,35,1,5,Primary,Employed,Married,1,0,0,2,0,40000000,1.7,1.5,40647776,59408776,1,1,3,11,21,House,2,45
+92,Rural,7,Fars,Male,80,0,0,Illiterate,Employed,Married,1,0,0,3,0,7850000,2.4,2,46819000,33020000,1,1,3,11,23,House,4,110
+92,Rural,25,Qom,Male,49,1,2,Primary,Employed,Married,1,0,0,8,3,178000000,5.3,3.9,73846104,239635104,1,1,4,14,24,House,2,70
+92,Rural,17,Kohgiluye & Boyerahmad,Male,73,0,0,Illiterate,Employed,Married,1,0,0,5,1,12550000,3.6,2.8,54984940,51061940,1,1,3,11,25,House,2,54
+92,Rural,18,Boushehr,Male,52,0,0,Illiterate,Income without Work,Married,0,0,1,8,1,60000000,5.7,4.3,86285000,109360000,1,1,3,11,25,House,4,100
+92,Rural,16,Ilam,Male,66,1,6,Primary,Employed,Married,1,0,0,2,0,9700000,1.7,1.5,35058000,26500000,1,1,3,11,23,House,5,130
+92,Rural,11,Sistan & Baluchistan,Male,33,1,12,Secondary,Employed,Married,1,0,0,3,1,17500000,2.2,1.8,37147164,43493164,1,1,3,11,21,House,3,65
+92,Rural,28,North Khorasan,Male,41,1,6,Primary,Employed,Married,1,0,0,6,4,30000000,3.7,2.7,61820328,78266328,1,1,3,11,23,House,4,105
+92,Rural,18,Boushehr,Male,85,0,0,Illiterate,Income without Work,Married,0,0,1,6,0,137400000,4.5,3.5,89321000,182160000,1,1,3,11,21,House,3,80
+92,Rural,28,North Khorasan,Female,50,0,0,Illiterate,Employed,Widowed,1,0,0,3,1,16800000,2.2,1.8,40320804,42073164,1,1,4,14,24,House,2,45
+92,Rural,15,Lorestan,Female,70,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,4800000,1.7,1.5,32580000,24980000,1,1,3,11,21,House,2,70
+92,Rural,15,Lorestan,Male,30,1,12,Secondary,Employed,Married,1,0,0,3,1,15600000,2.2,1.8,45609000,36930000,1,1,3,11,21,Free,1,18
+92,Rural,11,Sistan & Baluchistan,Male,52,0,0,Illiterate,Unemployed,Married,0,1,0,7,3,9000000,4.6,3.4,75182216,75267216,NA,1,3,15,23,House,4,80
+92,Rural,1,Guilan,Male,70,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,16600000,2.4,2,42844924,48578164,NA,1,4,14,24,House,4,75
+92,Rural,15,Lorestan,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,20000000,2.2,1.8,36170164,49353164,1,1,3,11,23,House,3,80
+92,Rural,8,Kerman,Male,56,0,0,Illiterate,Employed,Married,1,0,0,5,2,33600000,3.4,2.6,58113940,73471940,1,1,3,11,25,House,4,120
+92,Rural,17,Kohgiluye & Boyerahmad,Male,83,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,6400000,1.7,1.5,34033776,22548776,1,1,3,11,23,House,1,23
+92,Rural,11,Sistan & Baluchistan,Female,57,0,0,Illiterate,Employed,Widowed,1,0,0,12,6,12500000,7.5,5.3,114377656,132667656,NA,1,3,11,23,House,7,220
+92,Rural,3,East Azerbaijan,Male,77,0,0,Illiterate,Employed,Married,1,0,0,2,0,14730000,1.7,1.5,39750776,36318776,1,1,3,11,21,House,2,60
+92,Rural,13,Hamedan,Male,67,0,0,Illiterate,Employed,Married,1,0,0,3,0,25300000,2.4,2,33915164,53213164,NA,1,3,11,21,House,2,50
+92,Rural,8,Kerman,Male,28,1,6,Primary,Employed,Married,1,0,0,2,0,50000000,1.7,1.5,32146000,62320000,1,1,4,14,24,Rental,2,80
+92,Rural,15,Lorestan,Female,20,1,9,Secondary,Income without Work,Married,0,0,1,2,1,10000000,1.5,1.3,26092776,30648776,1,1,3,11,23,House,3,60
+92,Rural,24,Ardebil,Male,30,1,9,Secondary,Employed,Married,1,0,0,4,2,31500000,2.7,2.1,46848552,61917552,1,1,3,17,27,House,3,80
+92,Rural,15,Lorestan,Female,71,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,60000000,1.7,1.5,37467776,84848776,1,1,4,14,24,House,3,50
+92,Rural,15,Lorestan,Male,35,1,16,University,Employed,Bachelor,1,0,0,1,0,10000000,1,1,22806388,22424388,1,1,3,13,23,House,3,45
+92,Rural,3,East Azerbaijan,Male,49,0,0,Illiterate,Employed,Married,1,0,0,3,0,23330000,2.4,2,48453164,56043164,1,1,4,14,24,House,4,90
+92,Rural,7,Fars,Female,39,0,0,Illiterate,Employed,Married,1,0,0,5,4,5000000,3,2.2,45751940,17271940,1,1,3,11,21,House,4,95
+92,Rural,8,Kerman,Male,32,1,12,Secondary,Employed,Married,1,0,0,4,2,27600000,2.7,2.1,48197552,65777552,1,1,3,11,21,House,2,60
+92,Rural,11,Sistan & Baluchistan,Male,72,0,0,Illiterate,Employed,Married,1,0,0,2,0,19450000,1.7,1.5,61141776,52298776,1,1,3,11,23,House,2,65
+92,Rural,15,Lorestan,Male,33,1,2,Primary,Employed,Married,1,0,0,3,1,40000000,2.2,1.8,42258164,70463164,1,1,3,11,23,House,3,60
+92,Rural,10,Isfahan,Female,73,0,0,Illiterate,Income without Work,Divorced,0,0,1,5,0,103800000,3.8,3,72785000,154990000,1,1,4,14,24,House,4,150
+92,Rural,26,Qazvin,Male,37,1,6,Primary,Employed,Married,1,0,0,3,1,90000000,2.2,1.8,45597964,116113164,1,1,3,12,23,Free,2,40
+92,Rural,13,Hamedan,Male,30,1,9,Secondary,Employed,Married,1,0,0,3,1,39200000,2.2,1.8,45028164,72873164,1,1,4,14,24,Rental,2,35
+92,Rural,6,Khouzestan,Female,92,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,2500000,1,1,25264388,13044388,1,1,6,16,26,House,1,20
+92,Rural,11,Sistan & Baluchistan,Male,29,1,9,Secondary,Employed,Married,1,0,0,4,2,21150000,2.7,2.1,51858052,46847552,1,1,3,11,21,Rental,3,62
+92,Rural,11,Sistan & Baluchistan,Male,29,1,6,Primary,Employed,Married,1,0,0,6,4,27000000,3.7,2.7,65401828,69250328,1,1,3,11,21,House,2,42
+92,Rural,13,Hamedan,Male,52,0,0,Illiterate,Employed,Married,1,0,0,3,1,34400000,2.2,1.8,40452164,59673164,1,1,4,14,24,House,4,60
+92,Rural,13,Hamedan,Male,37,1,3,Primary,Employed,Married,1,0,0,3,1,41000000,2.2,1.8,32002284,66933164,1,1,4,14,24,House,2,64
+92,Rural,15,Lorestan,Male,39,1,12,Secondary,Employed,Married,1,0,0,3,1,26000000,2.2,1.8,32261164,51273164,1,1,3,13,23,House,4,100
+92,Rural,11,Sistan & Baluchistan,Male,32,1,8,Secondary,Employed,Married,1,0,0,7,5,51000000,4.2,3,76542716,106322716,NA,1,3,11,23,House,5,150
+92,Rural,26,Qazvin,Female,72,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,10200000,1,1,23982388,21704388,1,1,3,11,21,House,2,45
+92,Rural,11,Sistan & Baluchistan,Male,30,0,0,Illiterate,Employed,Married,1,0,0,7,5,38400000,4.2,3,71195328,100146328,1,1,3,15,23,House,2,24
+92,Rural,11,Sistan & Baluchistan,Female,80,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,3000000,1,1,25562388,17874388,1,1,3,15,23,House,1,24
+92,Rural,28,North Khorasan,Male,45,1,6,Primary,Employed,Married,1,0,0,3,0,33750000,2.4,2,46604344,59233164,1,1,3,11,30,House,3,85
+92,Rural,20,Semnan,Male,35,0,0,Illiterate,Employed,Married,1,0,0,3,1,40000000,2.2,1.8,27259164,62723164,1,1,4,14,24,House,4,80
+92,Rural,0,Markazi,Male,50,1,9,Secondary,Employed,Married,1,0,0,3,0,31700000,2.4,2,51968000,57800000,1,1,3,11,25,House,3,65
+92,Rural,19,Zanjan,Female,65,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,3600000,1,1,26131388,14824388,1,1,3,11,21,House,2,40
+92,Rural,23,Tehran,Male,45,0,0,Illiterate,Housekeeper,Widowed,0,0,0,6,4,48000000,3.7,2.7,65846000,76800000,1,1,4,14,24,Bonded,3,60
+92,Rural,8,Kerman,Male,30,1,4,Primary,Employed,Married,1,0,0,2,0,16800000,1.7,1.5,38233656,36707176,1,1,3,11,21,House,2,60
+92,Rural,11,Sistan & Baluchistan,Male,39,1,9,Secondary,Employed,Married,1,0,0,4,2,5500000,2.7,2.1,41717552,38157552,NA,1,3,11,23,House,3,70
+92,Rural,4,West Azerbaijan,Male,49,0,0,Illiterate,Employed,Married,1,0,0,5,3,3000000,3.2,2.4,59211940,69071940,1,1,1,11,21,House,2,50
+92,Rural,13,Hamedan,Male,34,1,9,Secondary,Employed,Bachelor,1,0,0,2,0,60800000,1.7,1.5,43260776,83608776,1,1,4,14,24,House,3,70
+92,Rural,3,East Azerbaijan,Male,73,1,6,Primary,Employed,Married,1,0,0,2,0,18000000,1.7,1.5,42863776,51332776,1,1,4,14,24,House,2,80
+92,Rural,28,North Khorasan,Male,34,1,5,Primary,Employed,Married,1,0,0,5,3,28500000,3.2,2.4,53423940,64891940,1,1,3,11,23,House,4,100
+92,Rural,0,Markazi,Male,75,0,0,Illiterate,Employed,Married,1,0,0,3,0,3050000,2.4,2,51137200,28190000,1,1,4,14,24,House,3,50
+92,Rural,15,Lorestan,Male,80,0,0,Illiterate,Employed,Married,1,0,0,2,0,67650000,1.7,1.5,44239776,104808776,1,1,4,14,24,House,4,100
+92,Rural,14,Chaharmahal & Bakhtiari,Male,80,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,21400000,1.7,1.5,38301176,45548776,1,1,4,14,24,House,2,60
+92,Rural,15,Lorestan,Female,83,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,7000000,1,1,26402388,22094388,1,1,3,11,23,House,3,80
+92,Rural,5,Kermanshah,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,30500000,2.2,1.8,45151164,62613164,1,1,4,14,24,House,3,40
+92,Rural,7,Fars,Male,54,1,5,Primary,Employed,Married,1,0,0,4,0,152000000,3.1,2.5,77100552,213392552,1,1,4,14,24,House,5,130
+92,Rural,13,Hamedan,Male,66,1,5,Primary,Employed,Married,1,0,0,4,0,43160000,3.1,2.5,89143552,81337552,1,1,3,11,21,House,4,80
+92,Rural,17,Kohgiluye & Boyerahmad,Female,35,1,6,Primary,Employed,Widowed,1,0,0,1,0,15600000,1,1,29271388,28958388,1,1,3,11,21,House,4,100
+92,Rural,28,North Khorasan,Male,71,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,10000000,1.7,1.5,39284776,27108776,1,1,3,11,21,House,4,90
+92,Rural,10,Isfahan,Male,32,1,6,Primary,Employed,Married,1,0,0,6,4,106000000,3.7,2.7,72074000,159940000,1,1,4,14,24,House,3,110
+92,Rural,9,Razavi Khorasan,Male,32,1,6,Primary,Employed,Married,1,0,0,4,2,39800000,2.7,2.1,49998192,78233552,1,1,3,11,21,House,4,110
+92,Rural,15,Lorestan,Male,38,0,0,Illiterate,Employed,Married,1,0,0,4,2,27000000,2.7,2.1,51193552,55577552,1,1,3,13,23,House,3,80
+92,Rural,2,Mazandaran,Male,76,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,54000000,1.7,1.5,38406576,75248776,NA,1,4,14,24,House,3,60
+92,Rural,15,Lorestan,Male,28,1,9,Secondary,Employed,Married,1,0,0,3,1,70600000,2.2,1.8,44629164,101873164,1,1,4,14,24,House,3,60
+92,Rural,15,Lorestan,Male,37,1,12,Secondary,Employed,Married,1,0,0,3,1,5500000,2.2,1.8,47913164,27773164,1,1,3,11,21,House,1,40
+92,Rural,17,Kohgiluye & Boyerahmad,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,8600000,1.7,1.5,41990776,25108776,1,1,3,11,23,House,2,50
+92,Rural,12,Kurdistan,Female,80,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6000000,1,1,27346888,13904388,1,1,3,11,21,House,2,40
+92,Rural,11,Sistan & Baluchistan,Female,61,0,0,Illiterate,Income without Work,Widowed,0,0,1,4,0,13000000,3.1,2.5,71297552,44337552,NA,1,3,11,23,House,4,80
+92,Rural,0,Markazi,Female,60,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,7400000,1,1,27704000,21526000,1,1,4,14,24,House,3,70
+92,Rural,25,Qom,Female,72,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,8000000,1,1,34715388,20654388,1,1,4,14,24,House,3,50
+92,Rural,17,Kohgiluye & Boyerahmad,Male,74,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,5000000,1.7,1.5,41152776,27568776,1,1,6,16,26,House,1,15
+92,Rural,15,Lorestan,Male,35,1,9,Secondary,Employed,Married,1,0,0,3,1,46000000,2.2,1.8,47593164,71753164,1,1,3,11,21,House,2,80
+92,Rural,7,Fars,Male,44,1,9,Secondary,Employed,Married,1,0,0,6,3,78500000,3.9,2.9,75955328,133126328,1,1,4,14,24,House,3,80
+92,Rural,11,Sistan & Baluchistan,Male,40,1,14,University,Employed,Married,1,0,0,4,2,17000000,2.7,2.1,61081052,48160552,1,1,3,11,25,House,3,58
+92,Rural,24,Ardebil,Male,22,1,6,Primary,Employed,Married,1,0,0,3,1,58350000,2.2,1.8,51493164,83863164,1,1,4,14,24,Free,3,60
+92,Rural,8,Kerman,Male,52,0,0,Illiterate,Employed,Married,1,0,0,6,3,37500000,3.9,2.9,69745728,89546328,1,1,3,11,25,House,3,100
+92,Rural,17,Kohgiluye & Boyerahmad,Male,42,1,9,Secondary,Employed,Married,1,0,0,5,3,9690000,3.2,2.4,58326940,46521940,1,1,3,11,25,House,4,92
+92,Rural,4,West Azerbaijan,Male,45,0,0,Illiterate,Employed,Married,1,0,0,6,2,20500000,4.1,3.1,84002328,74334328,1,1,3,11,21,House,3,50
+92,Rural,26,Qazvin,Male,66,0,0,Illiterate,Employed,Married,1,0,0,7,0,145300000,5.2,4,101329716,215270716,1,1,4,14,24,House,3,90
+92,Rural,7,Fars,Male,83,0,0,Illiterate,Employed,Married,1,0,0,5,0,82600000,3.8,3,74188940,122121940,1,1,3,11,23,House,4,80
+92,Rural,22,Hormozgan,Male,59,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,450000,1,1,29204000,13110000,NA,1,3,20,30,House,1,30
+92,Rural,11,Sistan & Baluchistan,Male,61,0,0,Illiterate,Unemployed,Married,0,1,0,6,4,0,3.7,2.7,71649328,47159328,1,1,3,11,25,House,5,180
+92,Rural,28,North Khorasan,Male,44,0,0,Illiterate,Employed,Married,1,0,0,5,3,32500000,3.2,2.4,60962940,68811940,1,1,3,11,30,House,3,100
+92,Rural,6,Khouzestan,Male,25,0,0,Illiterate,Employed,Married,1,0,0,3,1,2800000,2.2,1.8,48526164,22678164,1,1,6,16,26,House,1,27
+92,Rural,5,Kermanshah,Male,45,1,4,Primary,Employed,Married,1,0,0,6,3,54000000,3.9,2.9,75387928,107810328,1,1,3,11,23,House,3,50
+92,Rural,28,North Khorasan,Male,77,1,3,Primary,Employed,Married,1,0,0,5,0,104400000,3.8,3,82799940,152861940,1,1,3,16,21,House,2,30
+92,Rural,4,West Azerbaijan,Male,46,1,3,Primary,Employed,Married,1,0,0,5,2,40000000,3.4,2.6,189264840,83871940,1,1,4,14,24,House,4,140
+92,Rural,11,Sistan & Baluchistan,Male,30,1,9,Secondary,Employed,Married,1,0,0,6,4,55500000,3.7,2.7,74004328,98950328,NA,1,3,11,23,House,1,30
+92,Rural,15,Lorestan,Male,77,0,0,Illiterate,Employed,Married,1,0,0,6,2,168460000,4.1,3.1,92755000,214720000,1,1,3,11,23,House,4,100
+92,Rural,28,North Khorasan,Male,59,1,4,Primary,Employed,Married,1,0,0,10,4,84710000,6.5,4.7,121041480,160953880,1,1,3,11,21,House,4,90
+92,Rural,11,Sistan & Baluchistan,Male,18,1,8,Secondary,Employed,Bachelor,1,0,0,6,4,44000000,3.7,2.7,67683328,89445328,1,NA,3,11,23,House,3,75
+92,Rural,15,Lorestan,Male,70,0,0,Illiterate,Employed,Married,1,0,0,2,0,54500000,1.7,1.5,43398776,75488776,1,1,3,11,23,House,3,50
+92,Rural,8,Kerman,Male,60,1,5,Primary,Employed,Married,1,0,0,3,1,20000000,2.2,1.8,46962164,46023164,1,1,3,11,23,House,2,25
+92,Rural,28,North Khorasan,Female,66,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,0,8000000,2.4,2,53855124,36273164,1,1,4,14,24,House,1,36
+92,Rural,14,Chaharmahal & Bakhtiari,Female,67,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,11000000,1,1,28117788,22474388,1,1,3,11,23,House,2,40
+92,Rural,9,Razavi Khorasan,Male,38,1,6,Primary,Employed,Married,1,0,0,6,3,48000000,3.9,2.9,63896968,99482328,1,1,3,11,21,House,4,100
+92,Rural,11,Sistan & Baluchistan,Female,60,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,3850000,1,1,28508388,14594388,NA,1,3,11,21,House,2,50
+92,Rural,15,Lorestan,Male,55,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,30000000,1.7,1.5,42132776,61038776,1,1,3,11,23,House,4,80
+92,Rural,18,Boushehr,Male,24,1,3,Primary,Employed,Bachelor,1,0,0,5,0,480000000,3.8,3,83921000,513300000,NA,1,3,15,30,Free,3,100
+92,Rural,11,Sistan & Baluchistan,Female,58,0,0,Illiterate,Income without Work,Widowed,0,0,1,5,1,4500000,3.6,2.8,89568840,40306840,NA,1,3,15,23,House,2,28
+92,Rural,24,Ardebil,Female,62,0,0,Illiterate,Employed,Widowed,1,0,0,8,3,36620000,5.3,3.9,105790716,83860716,1,1,4,14,24,House,4,65
+92,Rural,15,Lorestan,Male,37,1,9,Secondary,Employed,Married,1,0,0,6,3,9000000,3.9,2.9,50217328,50546328,1,1,3,13,23,House,3,80
+92,Rural,3,East Azerbaijan,Male,99,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,16800000,1.7,1.5,42549776,35648776,1,1,3,11,21,House,2,60
+92,Rural,12,Kurdistan,Female,61,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,20000000,1.7,1.5,41563776,37008776,1,1,3,11,21,House,5,100
+92,Rural,9,Razavi Khorasan,Male,39,1,6,Primary,Employed,Married,1,0,0,6,4,46000000,3.7,2.7,70858328,99186328,1,1,4,14,24,House,3,90
+92,Rural,8,Kerman,Male,30,1,9,Secondary,Employed,Married,1,0,0,4,2,50000000,2.7,2.1,57190552,82657552,1,1,3,11,21,Free,2,25
+92,Rural,26,Qazvin,Female,87,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,10800000,1,1,29133388,29504388,1,1,3,11,25,House,2,40
+92,Rural,5,Kermanshah,Male,48,0,0,Illiterate,Employed,Married,1,0,0,3,0,72050000,2.4,2,59267364,107177164,1,1,4,14,24,House,3,70
+92,Rural,22,Hormozgan,Female,66,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,0,1,1,31264000,18160000,1,1,3,20,23,House,2,60
+92,Rural,20,Semnan,Male,34,1,11,Secondary,Employed,Married,1,0,0,2,0,72000000,1.7,1.5,52323776,96748776,1,1,3,13,23,House,4,150
+92,Rural,24,Ardebil,Male,35,1,9,Secondary,Employed,Married,1,0,0,6,4,76800000,3.7,2.7,62020328,123476328,1,1,4,14,24,Rental,3,75
+92,Rural,10,Isfahan,Female,65,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,11650000,1.7,1.5,54903376,31358776,1,1,4,14,24,House,4,65
+92,Rural,13,Hamedan,Male,34,1,6,Primary,Employed,Married,1,0,0,4,2,42000000,2.7,2.1,61554552,73697552,1,1,4,14,24,House,3,60
+92,Rural,13,Hamedan,Male,33,1,8,Secondary,Employed,Married,1,0,0,7,1,144500000,5,3.8,126926328,212036328,1,1,3,11,21,House,6,100
+92,Rural,23,Tehran,Male,43,1,5,Primary,Unemployed,Married,0,1,0,6,4,48000000,3.7,2.7,77303600,91140000,1,1,4,14,24,Rental,3,65
+92,Rural,11,Sistan & Baluchistan,Male,68,0,0,Illiterate,Employed,Married,1,0,0,4,0,41900000,3.1,2.5,70588940,99521940,1,1,3,11,21,House,4,100
+92,Rural,28,North Khorasan,Female,61,0,0,Illiterate,Other,Married,0,0,0,1,0,4000000,1,1,29535988,16424388,NA,1,1,11,21,House,2,40
+92,Rural,6,Khouzestan,Male,74,0,0,Illiterate,Employed,Married,1,0,0,4,0,22100000,3.1,2.5,71498552,58637552,1,1,6,16,26,House,1,30
+92,Rural,4,West Azerbaijan,Male,36,1,6,Primary,Employed,Married,1,0,0,4,2,490000,2.7,2.1,62045552,43787552,1,1,3,11,21,Free,2,60
+92,Rural,1,Guilan,Male,27,1,8,Secondary,Employed,Married,1,0,0,3,1,36000000,2.2,1.8,51896564,63973164,1,1,4,14,24,House,3,65
+92,Rural,7,Fars,Male,49,0,0,Illiterate,Income without Work,Married,0,0,1,4,1,64000000,2.9,2.3,66073940,103521940,1,1,4,14,24,House,4,120
+92,Rural,17,Kohgiluye & Boyerahmad,Female,42,0,0,Illiterate,Employed,Widowed,1,0,0,5,2,63000000,3.4,2.6,73840940,104081940,1,1,3,11,21,House,5,100
+92,Rural,17,Kohgiluye & Boyerahmad,Male,55,0,0,Illiterate,Employed,Married,1,0,0,3,1,12970000,2.2,1.8,58833164,41897164,1,1,3,11,25,House,4,100
+92,Rural,4,West Azerbaijan,Male,67,0,0,Illiterate,Employed,Married,1,0,0,8,2,231600000,5.5,4.1,119608104,295075104,1,1,3,11,21,House,2,100
+92,Rural,7,Fars,Male,70,0,0,Illiterate,Other,Married,0,0,0,3,0,30000000,2.4,2,56719164,72313164,NA,NA,3,11,23,House,2,50
+92,Rural,13,Hamedan,Male,41,1,9,Secondary,Employed,Married,1,0,0,4,2,55470000,2.7,2.1,58680352,88367552,1,1,4,14,24,House,3,60
+92,Rural,7,Fars,Male,24,1,10,Secondary,Income without Work,Married,0,0,1,2,0,0,1.7,1.5,43852776,24508776,1,1,3,11,21,Other,6,110
+92,Rural,29,South Khorasan,Female,78,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,8000000,1,1,30253788,21172388,1,1,3,11,21,House,2,18
+92,Rural,25,Qom,Female,57,0,0,Illiterate,Income without Work,Widowed,0,0,1,6,0,93600000,4.5,3.5,86929328,141926328,1,1,4,14,24,House,2,60
+92,Rural,16,Ilam,Female,72,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,0,24000000,2.4,2,54160000,48600000,1,1,3,11,23,House,3,100
+92,Rural,11,Sistan & Baluchistan,Male,47,1,3,Primary,Employed,Married,1,0,0,4,1,30000000,2.9,2.3,63083552,64097552,NA,1,3,11,21,House,2,50
+92,Rural,25,Qom,Male,80,0,0,Illiterate,Income without Work,Married,0,0,1,5,0,58600000,3.8,3,89691000,114100000,1,1,4,14,24,House,3,100
+92,Rural,6,Khouzestan,Male,48,0,0,Illiterate,Employed,Married,1,0,0,6,4,15900000,3.7,2.7,79622328,65486328,1,1,6,16,26,House,1,32
+92,Rural,14,Chaharmahal & Bakhtiari,Male,43,1,6,Primary,Employed,Married,1,0,0,6,3,48000000,3.9,2.9,79296128,99686328,1,1,4,14,24,House,3,130
+92,Rural,15,Lorestan,Male,73,0,0,Illiterate,Income without Work,Married,0,0,1,4,2,14600000,2.7,2.1,59872552,51577552,1,1,4,14,24,House,4,110
+92,Rural,5,Kermanshah,Male,75,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,8400000,1.7,1.5,45031976,26908776,1,1,4,14,24,House,3,50
+92,Rural,3,East Azerbaijan,Male,40,0,0,Illiterate,Employed,Married,1,0,0,5,2,48000000,3.4,2.6,75943940,92121940,1,1,4,14,24,House,3,60
+92,Rural,22,Hormozgan,Male,40,1,9,Secondary,Unemployed,Married,0,1,0,5,3,18000000,3.2,2.4,69631940,61471940,1,1,3,11,25,House,4,90
+92,Rural,2,Mazandaran,Male,70,1,1,Primary,Employed,Married,1,0,0,2,0,33600000,1.7,1.5,44857776,54848776,NA,1,4,14,24,House,4,70
+92,Rural,17,Kohgiluye & Boyerahmad,Male,63,0,0,Illiterate,Employed,Married,1,0,0,8,2,30060000,5.5,4.1,140849104,115187104,1,1,3,11,25,House,5,100
+92,Rural,11,Sistan & Baluchistan,Male,31,0,0,Illiterate,Employed,Married,1,0,0,4,2,21200000,2.7,2.1,59143052,49897552,1,1,3,11,21,House,2,36
+92,Rural,3,East Azerbaijan,Female,72,0,0,Illiterate,Housekeeper,Widowed,0,0,0,1,0,0,1,1,29942388,15274388,1,1,4,14,24,House,2,100
+92,Rural,13,Hamedan,Male,70,1,6,Primary,Employed,Married,1,0,0,5,1,59100000,3.6,2.8,85415140,99621940,1,1,3,11,23,House,3,70
+92,Rural,9,Razavi Khorasan,Female,88,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,5200000,1,1,31811988,18054388,1,1,4,14,24,Free,2,50
+92,Rural,6,Khouzestan,Male,63,0,0,Illiterate,Employed,Married,1,0,0,4,1,13450000,2.9,2.3,69183552,53947552,1,1,6,16,26,House,1,24
+92,Rural,9,Razavi Khorasan,Male,37,1,6,Primary,Employed,Married,1,0,0,4,2,39000000,2.7,2.1,62036672,85017552,1,1,3,11,30,House,2,45
+92,Rural,5,Kermanshah,Male,42,1,5,Primary,Employed,Married,1,0,0,7,4,36000000,4.4,3.2,104224716,97330716,1,1,3,11,23,House,3,85
+92,Rural,13,Hamedan,Male,32,1,9,Secondary,Employed,Married,1,0,0,5,3,22900000,3.2,2.4,38335940,70861940,1,1,3,11,23,House,2,60
+92,Rural,6,Khouzestan,Male,90,0,0,Illiterate,Income without Work,Widowed,0,0,1,5,3,2000000,3.2,2.4,72855940,40561940,1,1,6,16,26,House,1,40
+92,Rural,25,Qom,Male,25,1,7,Secondary,Employed,Married,1,0,0,2,0,84000000,1.7,1.5,44594776,105708776,1,1,4,14,24,House,3,70
+92,Rural,5,Kermanshah,Male,21,1,6,Primary,Employed,Married,1,0,0,2,0,39000000,1.7,1.5,47171576,66248776,1,1,4,14,24,House,3,40
+92,Rural,5,Kermanshah,Male,38,1,9,Secondary,Employed,Married,1,0,0,3,1,32000000,2.2,1.8,52626964,62913164,1,1,3,11,23,House,3,60
+92,Rural,10,Isfahan,Female,66,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,52710000,1.7,1.5,21724388,79732388,1,1,4,14,24,House,4,50
+92,Rural,22,Hormozgan,Male,65,1,3,Primary,Income without Work,Married,0,0,1,3,0,24000000,2.4,2,68560000,47928000,1,1,3,15,25,House,5,150
+92,Rural,2,Mazandaran,Male,36,1,12,Secondary,Employed,Married,1,0,0,3,1,100100000,2.2,1.8,92792164,121173164,1,1,4,14,24,Rental,4,70
+92,Rural,22,Hormozgan,Male,46,0,0,Illiterate,Employed,Married,1,0,0,7,0,42000000,5.2,4,125833000,110310000,1,1,3,20,25,House,3,85
+92,Rural,26,Qazvin,Male,44,1,4,Primary,Employed,Married,1,0,0,5,3,52800000,3.2,2.4,53292940,92321940,1,1,4,14,24,House,3,50
+92,Rural,5,Kermanshah,Male,40,1,6,Primary,Employed,Married,1,0,0,7,5,35000000,4.2,3,81543516,96090716,1,1,3,11,23,House,3,80
+92,Rural,20,Semnan,Male,55,0,0,Illiterate,Employed,Married,1,0,0,5,0,57900000,3.8,3,89341940,96971940,1,1,4,14,24,House,4,70
+92,Rural,18,Boushehr,Male,65,0,0,Illiterate,Income without Work,Married,0,0,1,6,0,66000000,4.5,3.5,96920456,109732656,1,1,3,11,21,House,2,36
+92,Rural,6,Khouzestan,Male,82,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,23000000,1.7,1.5,48340776,44748776,1,1,4,14,24,House,2,30
+92,Rural,11,Sistan & Baluchistan,Male,36,1,9,Secondary,Employed,Married,1,0,0,5,3,48000000,3.2,2.4,64702940,92229940,1,1,3,15,23,House,2,28
+92,Rural,9,Razavi Khorasan,Male,41,0,0,Illiterate,Employed,Married,1,0,0,5,3,52000000,3.2,2.4,66863940,93407940,1,1,3,11,21,House,4,100
+92,Rural,29,South Khorasan,Male,88,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,8000000,1,1,32277388,17854388,NA,1,1,11,21,House,1,15
+92,Rural,6,Khouzestan,Male,40,0,0,Illiterate,Employed,Married,1,0,0,6,4,8000000,3.7,2.7,83316328,59026328,1,1,3,11,23,House,2,60
+92,Rural,4,West Azerbaijan,Male,50,1,2,Primary,Employed,Married,1,0,0,8,2,63050000,5.5,4.1,160459104,120045104,NA,1,3,11,21,House,2,100
+92,Rural,3,East Azerbaijan,Male,51,0,0,Illiterate,Employed,Married,1,0,0,4,0,55870000,3.1,2.5,79099552,88287552,1,1,4,14,24,House,3,80
+92,Rural,29,South Khorasan,Male,72,0,0,Illiterate,Employed,Married,1,0,0,2,0,32500000,1.7,1.5,48878776,57026776,1,1,3,11,23,House,4,100
+92,Rural,9,Razavi Khorasan,Male,38,1,6,Primary,Employed,Married,1,0,0,4,2,65250000,2.7,2.1,59313452,103227552,1,1,3,11,23,House,3,80
+92,Rural,22,Hormozgan,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,5400000,2.4,2,69342000,48455000,1,1,3,20,25,House,3,75
+92,Rural,28,North Khorasan,Male,30,1,9,Secondary,Employed,Married,1,0,0,3,1,54800000,2.2,1.8,46469164,82113164,1,1,4,14,24,House,4,80
+92,Rural,28,North Khorasan,Male,70,0,0,Illiterate,Employed,Married,1,0,0,2,0,78400000,1.7,1.5,82810776,106508776,1,1,3,11,23,House,2,30
+92,Rural,29,South Khorasan,Female,32,1,2,Primary,Income without Work,Married,0,0,1,2,1,25000000,1.5,1.3,41795776,34816776,1,1,3,11,23,House,5,80
+92,Rural,26,Qazvin,Male,53,1,5,Primary,Employed,Married,1,0,0,4,2,45000000,2.7,2.1,59922552,71817552,1,1,3,11,21,Rental,3,60
+92,Rural,7,Fars,Male,48,1,2,Primary,Employed,Married,1,0,0,7,2,102000000,4.8,3.6,61030716,158530716,1,1,3,11,21,House,2,40
+92,Rural,10,Isfahan,Male,77,0,0,Illiterate,Employed,Married,1,0,0,2,0,4050000,1.7,1.5,49206776,34114776,1,1,4,14,24,House,3,70
+92,Rural,1,Guilan,Female,57,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6800000,1,1,34714388,19414388,NA,1,4,14,24,House,3,50
+92,Rural,24,Ardebil,Male,39,1,1,Primary,Employed,Married,1,0,0,4,1,60200000,2.9,2.3,67050552,98567552,1,1,3,11,21,House,4,90
+92,Rural,5,Kermanshah,Male,59,0,0,Illiterate,Employed,Married,1,0,0,2,0,29200000,1.7,1.5,47584776,52808776,1,1,4,14,24,House,2,35
+92,Rural,1,Guilan,Male,32,1,8,Secondary,Employed,Married,1,0,0,3,1,24000000,2.2,1.8,58794004,53713164,NA,1,4,14,24,Free,2,30
+92,Rural,1,Guilan,Male,39,1,6,Primary,Unemployed,Married,0,1,0,4,2,23200000,2.7,2.1,62001752,58417552,NA,1,4,14,24,House,3,70
+92,Rural,5,Kermanshah,Male,40,1,9,Secondary,Employed,Married,1,0,0,4,2,41000000,2.7,2.1,70774552,79817552,1,1,3,11,23,House,4,120
+92,Rural,15,Lorestan,Male,47,1,5,Primary,Employed,Married,1,0,0,5,2,70000000,3.4,2.6,80959940,114121940,1,1,4,14,24,House,3,70
+92,Rural,10,Isfahan,Female,78,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,11000000,1,1,49103688,21304388,1,1,4,14,30,House,5,70
+92,Rural,24,Ardebil,Male,32,1,9,Secondary,Employed,Married,1,0,0,3,1,51500000,2.2,1.8,56866164,77613164,1,1,3,15,23,Free,2,44
+92,Rural,20,Semnan,Male,47,1,9,Secondary,Employed,Married,1,0,0,4,1,63000000,2.9,2.3,74798552,97185552,1,1,4,14,24,House,3,150
+92,Rural,22,Hormozgan,Male,41,1,3,Primary,Employed,Married,1,0,0,6,4,52400000,3.7,2.7,85976928,94846328,1,1,3,15,23,House,3,85
+92,Rural,0,Markazi,Male,38,1,6,Primary,Employed,Married,1,0,0,5,3,45800000,3.2,2.4,86660000,87870000,1,1,4,14,24,House,3,80
+92,Rural,1,Guilan,Male,77,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,6900000,1.7,1.5,51524880,29980000,1,1,4,14,24,House,3,70
+92,Rural,26,Qazvin,Female,46,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,1,15600000,1.5,1.3,43340776,49008776,1,1,3,11,21,House,3,70
+92,Rural,17,Kohgiluye & Boyerahmad,Male,33,1,2,Primary,Employed,Married,1,0,0,5,3,30000000,3.2,2.4,83496940,68961940,1,1,6,16,26,Free,4,120
+92,Rural,11,Sistan & Baluchistan,Male,28,0,0,Illiterate,Employed,Married,1,0,0,3,0,5000000,2.4,2,62464164,36273164,NA,1,3,15,23,House,2,30
+92,Rural,6,Khouzestan,Male,52,0,0,Illiterate,Housekeeper,Widowed,0,0,0,1,0,3000000,1,1,34082388,12704388,1,1,3,11,23,House,1,20
+92,Rural,22,Hormozgan,Male,52,0,0,Illiterate,Employed,Married,1,0,0,4,0,54000000,3.1,2.5,84127552,91897552,1,1,3,11,25,House,4,85
+92,Rural,17,Kohgiluye & Boyerahmad,Male,52,1,6,Primary,Employed,Married,1,0,0,5,1,90500000,3.6,2.8,98958940,136663940,1,1,3,11,21,House,6,120
+92,Rural,5,Kermanshah,Male,18,1,11,Secondary,Employed,Married,1,0,0,2,1,44000000,1.5,1.3,56113576,61608776,1,1,3,11,23,Free,3,60
+92,Rural,12,Kurdistan,Male,33,1,6,Primary,Employed,Married,1,0,0,5,3,60000000,3.2,2.4,78247940,103121940,1,1,4,14,24,House,3,70
+92,Rural,0,Markazi,Female,59,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,3600000,1,1,41568000,17540000,1,1,4,14,24,House,3,70
+92,Rural,5,Kermanshah,Male,40,1,6,Primary,Employed,Married,1,0,0,5,2,37500000,3.4,2.6,93595340,88931940,1,1,3,11,23,House,3,90
+92,Rural,1,Guilan,Male,48,1,6,Primary,Employed,Married,1,0,0,4,1,8400000,2.9,2.3,83553000,60610000,1,1,4,14,24,House,3,100
+92,Rural,1,Guilan,Male,77,0,0,Illiterate,Employed,Married,1,0,0,2,0,43400000,1.7,1.5,46476400,69558000,1,1,4,14,24,House,3,50
+92,Rural,9,Razavi Khorasan,Male,31,1,6,Primary,Employed,Married,1,0,0,3,1,21600000,2.2,1.8,61506764,44113164,1,1,3,11,23,Free,2,25
+92,Rural,22,Hormozgan,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,900000,1.7,1.5,54952000,32820000,1,1,3,20,23,House,3,65
+92,Rural,8,Kerman,Female,56,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,0,12500000,2.4,2,71466164,46893164,1,1,3,11,21,House,3,70
+92,Rural,18,Boushehr,Male,40,1,16,University,Unemployed,Married,0,1,0,3,1,0,2.2,1.8,48204000,29220000,1,1,3,14,24,House,4,95
+92,Rural,10,Isfahan,Male,71,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,7000000,2.4,2,75658164,40553164,1,1,4,14,24,House,4,120
+92,Rural,7,Fars,Male,53,0,0,Illiterate,Employed,Married,1,0,0,4,0,12000000,3.1,2.5,87779552,81897552,NA,NA,3,11,23,Apartment,2,50
+92,Rural,13,Hamedan,Male,30,1,14,University,Employed,Married,1,0,0,2,1,33000000,1.5,1.3,37070164,51147164,1,1,4,14,24,House,2,40
+92,Rural,15,Lorestan,Male,35,1,9,Secondary,Employed,Married,1,0,0,2,0,26900000,1.7,1.5,55538776,57748776,1,1,4,14,24,Free,3,80
+92,Rural,11,Sistan & Baluchistan,Male,58,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,3000000,2.4,2,68269664,28273164,1,1,3,11,21,House,3,72
+92,Rural,9,Razavi Khorasan,Male,72,0,0,Illiterate,Employed,Married,1,0,0,4,0,47300000,3.1,2.5,77285792,90677552,1,1,3,11,30,House,2,30
+92,Rural,24,Ardebil,Male,75,0,0,Illiterate,Employed,Married,1,0,0,4,0,13100000,3.1,2.5,91468552,53957552,1,1,3,11,27,House,5,70
+92,Rural,2,Mazandaran,Male,65,0,0,Illiterate,Employed,Married,1,0,0,4,0,84000000,3.1,2.5,72965552,115697552,1,1,4,14,24,House,2,37
+92,Rural,7,Fars,Male,51,0,0,Illiterate,Employed,Married,1,0,0,7,1,166000000,5,3.8,122051716,222230716,1,1,4,14,24,House,3,90
+92,Rural,3,East Azerbaijan,Male,59,0,0,Illiterate,Employed,Married,1,0,0,5,0,21000000,3.8,3,68306940,68481940,NA,1,3,11,21,House,3,60
+92,Rural,9,Razavi Khorasan,Male,40,1,2,Primary,Employed,Married,1,0,0,5,3,108000000,3.2,2.4,77842180,150161940,1,1,3,11,23,House,3,60
+92,Rural,29,South Khorasan,Male,76,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,41000000,2.4,2,70706164,68583164,NA,1,3,11,21,House,5,100
+92,Rural,2,Mazandaran,Male,78,1,3,Primary,Employed,Married,1,0,0,3,0,32650000,2.4,2,66005964,64643164,1,1,4,14,24,House,4,103
+92,Rural,29,South Khorasan,Male,80,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,10500000,1,1,37146388,22074388,1,1,3,11,23,Free,2,25
+92,Rural,22,Hormozgan,Male,66,1,6,Primary,Income without Work,Married,0,0,1,4,0,79500000,3.1,2.5,74477280,107820000,1,1,3,15,23,House,3,90
+92,Rural,8,Kerman,Male,30,1,9,Secondary,Employed,Married,1,0,0,4,2,25200000,2.7,2.1,73311672,59897552,1,1,3,11,21,House,2,60
+92,Rural,13,Hamedan,Male,48,1,6,Primary,Employed,Married,1,0,0,7,2,220000000,4.8,3.6,105722716,273490716,1,1,4,14,24,House,6,150
+92,Rural,0,Markazi,Male,32,1,9,Secondary,Unemployed,Married,0,1,0,3,1,38550000,2.2,1.8,39697564,60313164,1,1,4,14,24,Free,3,80
+92,Rural,24,Ardebil,Male,34,1,6,Primary,Employed,Married,1,0,0,4,2,63200000,2.7,2.1,81141552,100217552,1,1,3,11,21,House,4,100
+92,Rural,30,Alborz,Male,38,1,6,Primary,Income without Work,Widowed,0,0,1,3,1,9000000,2.2,1.8,64206000,42330000,1,1,4,14,24,Free,3,45
+92,Rural,4,West Azerbaijan,Male,46,0,0,Illiterate,Unemployed,Married,0,1,0,5,3,0,3.2,2.4,77780400,34900000,1,1,3,11,21,House,3,50
+92,Rural,8,Kerman,Male,32,1,6,Primary,Employed,Married,1,0,0,5,3,32000000,3.2,2.4,66338000,69550000,1,1,3,11,21,Free,3,40
+92,Rural,30,Alborz,Male,56,0,0,Illiterate,Employed,Married,1,0,0,4,0,125000000,3.1,2.5,80856000,164640000,1,1,4,14,24,Rental,4,85
+92,Rural,12,Kurdistan,Male,30,1,9,Secondary,Employed,Married,1,0,0,3,1,60000000,2.2,1.8,65065844,87313164,NA,1,4,14,24,Free,3,70
+92,Rural,5,Kermanshah,Male,50,1,6,Primary,Employed,Married,1,0,0,9,4,78850000,5.8,4.2,157641604,164473104,1,1,3,11,21,House,3,80
+92,Rural,11,Sistan & Baluchistan,Male,41,0,0,Illiterate,Employed,Married,1,0,0,7,5,19450000,4.2,3,106173616,69536616,1,1,3,11,21,House,3,65
+92,Rural,11,Sistan & Baluchistan,Male,38,1,6,Primary,Employed,Married,1,0,0,5,3,28800000,3.2,2.4,81929940,75480940,1,1,3,15,23,House,3,42
+92,Rural,1,Guilan,Male,29,1,8,Secondary,Employed,Married,1,0,0,4,2,61000000,2.7,2.1,69433964,90568164,NA,1,4,14,24,House,4,110
+92,Rural,22,Hormozgan,Male,22,1,6,Primary,Employed,Married,1,0,0,2,0,36000000,1.7,1.5,54692000,56750000,1,1,3,20,30,Free,2,45
+92,Rural,8,Kerman,Male,35,1,12,Secondary,Employed,Married,1,0,0,5,3,32500000,3.2,2.4,85374740,74671940,1,1,3,11,25,House,2,60
+92,Rural,5,Kermanshah,Female,60,0,0,Illiterate,Housekeeper,Widowed,0,0,0,4,0,93400000,3.1,2.5,79775552,132241552,1,1,3,11,23,House,4,100
+92,Rural,22,Hormozgan,Male,43,1,6,Primary,Employed,Married,1,0,0,4,2,48000000,2.7,2.1,71072852,74977552,1,1,3,15,23,House,2,55
+92,Rural,6,Khouzestan,Male,52,1,3,Primary,Employed,Married,1,0,0,7,2,9400000,4.8,3.6,129148716,67130716,1,1,4,14,24,House,4,100
+92,Rural,0,Markazi,Male,91,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,19700000,1.7,1.5,58002776,36208776,1,1,3,11,23,House,3,50
+92,Rural,22,Hormozgan,Male,54,0,0,Illiterate,Employed,Married,1,0,0,6,1,48000000,4.3,3.3,120152000,109050000,1,1,3,13,23,House,4,130
+92,Rural,15,Lorestan,Male,66,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,82000000,1.7,1.5,39199000,106620000,1,1,4,14,24,House,3,60
+92,Rural,10,Isfahan,Female,75,0,0,Illiterate,Housekeeper,Widowed,0,0,0,1,0,8400000,1,1,40895800,29110000,1,1,4,14,24,House,4,150
+92,Rural,25,Qom,Male,43,1,6,Primary,Employed,Married,1,0,0,5,3,101000000,3.2,2.4,82941940,151081940,1,1,4,14,24,House,3,100
+92,Rural,22,Hormozgan,Male,43,1,6,Primary,Unemployed,Married,0,1,0,8,3,0,5.3,3.9,151240000,60480000,NA,1,3,15,25,House,3,80
+92,Rural,3,East Azerbaijan,Male,74,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,37020000,1.7,1.5,55454776,63548776,1,1,3,11,21,House,2,60
+92,Rural,0,Markazi,Male,25,1,6,Primary,Employed,Married,1,0,0,3,1,35000000,2.2,1.8,-11000836,62313164,1,1,4,14,24,House,3,70
+92,Rural,24,Ardebil,Male,77,0,0,Illiterate,Employed,Married,1,0,0,2,0,22850000,1.7,1.5,66129776,54858776,1,1,3,11,23,House,4,66
+92,Rural,1,Guilan,Male,80,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,21000000,1.7,1.5,58791040,47740000,NA,1,4,14,24,House,4,100
+92,Rural,8,Kerman,Male,60,0,0,Illiterate,Employed,Married,1,0,0,3,0,51700000,2.4,2,69966164,87221164,1,1,3,11,21,House,5,120
+92,Rural,24,Ardebil,Male,38,1,9,Secondary,Employed,Married,1,0,0,5,3,47810000,3.2,2.4,65832940,91931940,1,1,3,17,27,House,3,60
+92,Rural,10,Isfahan,Female,58,0,0,Illiterate,Housekeeper,Divorced,0,0,0,2,0,7000000,1.7,1.5,57639156,30008756,1,1,4,14,24,House,4,100
+92,Rural,11,Sistan & Baluchistan,Male,33,1,9,Secondary,Unemployed,Married,0,1,0,3,0,3500000,2.4,2,78181164,44663164,NA,1,3,11,21,House,2,50
+92,Rural,29,South Khorasan,Male,44,1,4,Primary,Employed,Married,1,0,0,7,5,36500000,4.2,3,108090916,96958716,1,1,3,11,23,House,4,80
+92,Rural,28,North Khorasan,Male,52,0,0,Illiterate,Employed,Married,1,0,0,2,0,11900000,1.7,1.5,52210776,29048776,1,1,4,14,24,House,3,80
+92,Rural,15,Lorestan,Female,29,1,9,Secondary,Income without Work,Married,0,0,1,4,2,100000000,2.7,2.1,79267552,143697552,1,1,4,14,24,Free,4,150
+92,Rural,2,Mazandaran,Male,27,1,6,Primary,Employed,Married,1,0,0,3,1,42500000,2.2,1.8,61277364,65973164,NA,1,4,14,24,Free,2,20
+92,Rural,15,Lorestan,Male,48,1,5,Primary,Employed,Married,1,0,0,5,2,74700000,3.4,2.6,107350000,121658000,1,1,4,14,24,House,3,90
+92,Rural,8,Kerman,Male,45,1,6,Primary,Employed,Married,1,0,0,5,3,45500000,3.2,2.4,71919940,98979940,1,1,3,11,21,House,2,40
+92,Rural,15,Lorestan,Male,64,0,0,Illiterate,Employed,Married,1,0,0,3,0,25000000,2.4,2,47282164,47513164,1,1,3,13,23,House,4,90
+92,Rural,17,Kohgiluye & Boyerahmad,Male,35,1,5,Primary,Employed,Married,1,0,0,5,3,95000000,3.2,2.4,111281940,129521940,1,1,3,13,23,House,3,90
+92,Rural,6,Khouzestan,Male,52,1,3,Primary,Employed,Married,1,0,0,6,1,90000000,4.3,3.3,103796328,143234328,1,1,3,15,25,House,6,150
+92,Rural,14,Chaharmahal & Bakhtiari,Male,41,1,4,Primary,Employed,Married,1,0,0,5,3,40000000,3.2,2.4,88463940,87471940,1,1,4,14,24,House,3,150
+92,Rural,0,Markazi,Female,65,0,0,Illiterate,Employed,Widowed,1,0,0,3,0,36150000,2.4,2,49743164,60433164,1,1,4,14,24,House,4,80
+92,Rural,22,Hormozgan,Male,30,1,8,Secondary,Employed,Married,1,0,0,3,1,48000000,2.2,1.8,70147164,70723164,1,1,3,20,25,Rental,4,85
+92,Rural,29,South Khorasan,Female,83,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,7500000,1,1,38917388,18992388,1,1,3,11,21,House,1,15
+92,Rural,12,Kurdistan,Male,36,1,6,Primary,Employed,Married,1,0,0,3,1,46000000,2.2,1.8,74117764,84425164,1,1,4,14,24,House,2,50
+92,Rural,17,Kohgiluye & Boyerahmad,Male,50,0,0,Illiterate,Employed,Married,1,0,0,5,0,91800000,3.8,3,106157940,134411940,1,1,3,11,21,House,5,110
+92,Rural,12,Kurdistan,Male,40,1,12,Secondary,Employed,Married,1,0,0,4,2,36000000,2.7,2.1,78147952,74817552,1,1,4,14,24,House,4,120
+92,Rural,17,Kohgiluye & Boyerahmad,Male,48,1,2,Primary,Employed,Married,1,0,0,5,3,77800000,3.2,2.4,89088940,126819940,1,1,3,11,21,House,5,110
+92,Rural,7,Fars,Male,23,1,8,Secondary,Employed,Married,1,0,0,3,1,31000000,2.2,1.8,73248164,71993164,NA,NA,3,11,23,House,1,20
+92,Rural,14,Chaharmahal & Bakhtiari,Male,58,1,3,Primary,Income without Work,Married,0,0,1,2,0,20000000,1.7,1.5,59914776,42828776,1,1,4,14,24,House,3,200
+92,Rural,10,Isfahan,Male,38,1,6,Primary,Employed,Married,1,0,0,5,3,40000000,3.2,2.4,62150500,113429000,1,1,4,14,24,House,4,140
+92,Rural,13,Hamedan,Male,27,1,6,Primary,Employed,Married,1,0,0,4,2,30000000,2.7,2.1,22359552,55552552,1,1,4,14,24,House,3,64
+92,Rural,6,Khouzestan,Male,37,1,6,Primary,Employed,Married,1,0,0,8,6,30000000,4.7,3.3,105151104,94435104,1,1,3,15,25,House,5,120
+92,Rural,5,Kermanshah,Male,37,1,6,Primary,Employed,Married,1,0,0,3,1,20000000,2.2,1.8,62189964,49365164,1,1,3,11,23,Bonded,3,70
+92,Rural,9,Razavi Khorasan,Male,90,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,10000000,1.7,1.5,60470000,29480000,1,1,3,11,23,House,3,100
+92,Rural,7,Fars,Male,73,0,0,Illiterate,Employed,Married,1,0,0,3,0,14600000,2.4,2,79703000,54098000,1,1,4,14,24,House,5,100
+92,Rural,5,Kermanshah,Male,64,0,0,Illiterate,Employed,Married,1,0,0,6,1,99200000,4.3,3.3,124253928,162826328,1,1,3,11,23,House,3,40
+92,Rural,18,Boushehr,Male,60,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,1600000,1,1,25213456,14392656,1,1,3,11,25,House,3,48
+92,Rural,5,Kermanshah,Male,38,1,4,Primary,Employed,Married,1,0,0,4,2,36000000,2.7,2.1,73633752,69225552,1,1,3,11,21,House,3,50
+92,Rural,13,Hamedan,Male,51,1,6,Primary,Employed,Married,1,0,0,3,0,100000000,2.4,2,83968164,125273164,1,1,4,14,24,House,4,100
+92,Rural,15,Lorestan,Male,39,1,9,Secondary,Income without Work,Married,0,0,1,5,3,12000000,3.2,2.4,87505940,54301940,1,1,4,14,24,Free,3,28
+92,Rural,13,Hamedan,Male,45,1,8,Secondary,Income without Work,Married,0,0,1,5,3,9000000,3.2,2.4,87908940,50961940,1,1,4,14,24,House,3,56
+92,Rural,11,Sistan & Baluchistan,Male,25,0,0,Illiterate,Unemployed,Married,0,1,0,2,0,0,1.7,1.5,56688776,19448776,NA,1,3,15,23,House,1,24
+92,Rural,19,Zanjan,Male,60,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,1,6000000,1.5,1.3,49672776,24848776,1,1,3,11,21,House,2,50
+92,Rural,15,Lorestan,Male,38,1,4,Primary,Employed,Married,1,0,0,5,3,18000000,3.2,2.4,67068000,56145000,1,1,3,11,23,House,3,65
+92,Rural,24,Ardebil,Male,59,1,5,Primary,Employed,Married,1,0,0,5,0,166600000,3.8,3,125062940,231911940,1,1,4,14,24,House,4,90
+92,Rural,20,Semnan,Male,77,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,60000000,1.7,1.5,62905000,88520000,1,1,4,14,24,House,4,150
+92,Rural,4,West Azerbaijan,Male,81,0,0,Illiterate,Employed,Married,1,0,0,2,0,15000000,1.7,1.5,137814776,49348776,1,1,3,11,21,House,2,50
+92,Rural,17,Kohgiluye & Boyerahmad,Male,50,0,0,Illiterate,Employed,Married,1,0,0,5,3,30000000,3.2,2.4,96769940,76281940,1,1,3,11,26,House,3,90
+92,Rural,7,Fars,Female,62,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,48000000,1.7,1.5,44592776,71800776,1,1,3,11,23,House,4,110
+92,Rural,28,North Khorasan,Male,43,1,4,Primary,Employed,Married,1,0,0,8,5,95000000,4.9,3.5,138271104,208635104,1,1,3,11,23,House,5,120
+92,Rural,19,Zanjan,Male,29,1,6,Primary,Employed,Married,1,0,0,3,1,35000000,2.2,1.8,66504164,62673164,1,1,4,14,24,House,3,75
+92,Rural,7,Fars,Male,51,1,9,Secondary,Employed,Married,1,0,0,4,2,33245000,2.7,2.1,78885552,82346552,NA,1,3,11,26,House,3,30
+92,Rural,4,West Azerbaijan,Male,36,1,9,Secondary,Employed,Married,1,0,0,4,2,108000000,2.7,2.1,85954352,139497552,1,1,4,14,24,Free,4,100
+92,Rural,26,Qazvin,Male,38,1,6,Primary,Employed,Married,1,0,0,5,2,137100000,3.4,2.6,124996940,207809940,1,1,4,14,24,House,3,80
+92,Rural,15,Lorestan,Male,49,1,9,Secondary,Employed,Married,1,0,0,4,2,36000000,2.7,2.1,81816552,71897552,1,1,3,11,21,Free,1,18
+92,Rural,8,Kerman,Female,52,1,6,Primary,Income without Work,Widowed,0,0,1,1,0,66000000,1,1,36266000,84160000,1,1,4,14,24,House,2,100
+92,Rural,1,Guilan,Male,45,0,0,Illiterate,Employed,Married,1,0,0,4,1,72000000,2.9,2.3,78725000,105080000,1,1,4,14,24,House,3,100
+92,Rural,0,Markazi,Female,45,1,5,Primary,Employed,Divorced,1,0,0,1,0,40450000,1,1,39639188,66781188,1,1,4,14,24,Rental,1,30
+92,Rural,25,Qom,Male,38,1,6,Primary,Employed,Married,1,0,0,2,0,65000000,1.7,1.5,87616776,92808776,1,1,4,14,24,House,3,100
+92,Rural,13,Hamedan,Male,43,1,6,Primary,Employed,Married,1,0,0,2,0,40000000,1.7,1.5,58477176,60048776,1,1,3,13,23,House,3,60
+92,Rural,17,Kohgiluye & Boyerahmad,Male,32,1,9,Secondary,Employed,Married,1,0,0,4,2,37000000,2.7,2.1,92583552,80817552,1,1,6,16,26,Free,4,120
+92,Rural,8,Kerman,Male,53,1,6,Primary,Employed,Married,1,0,0,5,3,40000000,3.2,2.4,94891964,85171940,1,1,3,11,23,House,3,45
+92,Rural,1,Guilan,Female,77,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,28800000,1,1,43531160,54980000,1,1,4,14,24,House,3,70
+92,Rural,10,Isfahan,Female,78,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,5500000,1,1,40285188,15204388,1,1,4,14,24,House,3,70
+92,Rural,9,Razavi Khorasan,Male,39,1,4,Primary,Employed,Married,1,0,0,3,1,77600000,2.2,1.8,140998836,113403164,1,1,4,14,24,House,4,100
+92,Rural,29,South Khorasan,Female,82,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,10000000,1.7,1.5,60334776,32468776,NA,1,3,11,21,Free,4,70
+92,Rural,23,Tehran,Male,42,0,0,Illiterate,Employed,Married,1,0,0,5,2,110000000,3.4,2.6,88915000,1.10E+08,1,1,4,14,24,ToServe,3,60
+92,Rural,19,Zanjan,Male,24,1,12,Secondary,Employed,Divorced,1,0,0,1,0,36000000,1,1,41398588,49624388,1,1,3,11,21,Free,2,40
+92,Rural,29,South Khorasan,Male,35,1,6,Primary,Employed,Married,1,0,0,6,4,18000000,3.7,2.7,65319328,61766328,1,1,3,11,21,Rental,1,9
+92,Rural,15,Lorestan,Male,42,1,5,Primary,Employed,Married,1,0,0,5,1,22500000,3.6,2.8,110934940,71731940,1,1,3,11,23,House,5,100
+92,Rural,28,North Khorasan,Male,47,0,0,Illiterate,Employed,Married,1,0,0,8,5,51000000,4.9,3.5,41111200,99480000,1,1,4,14,24,House,3,85
+92,Rural,5,Kermanshah,Male,45,0,0,Illiterate,Employed,Married,1,0,0,5,1,73810000,3.6,2.8,101800940,129555940,1,1,4,14,24,House,4,100
+92,Rural,17,Kohgiluye & Boyerahmad,Male,41,1,9,Secondary,Employed,Married,1,0,0,4,2,70200000,2.7,2.1,84117552,110745552,1,1,3,11,21,House,5,115
+92,Rural,2,Mazandaran,Male,37,1,12,Secondary,Employed,Married,1,0,0,4,2,84250000,2.7,2.1,63455952,118762552,NA,1,4,14,24,House,3,75
+92,Rural,7,Fars,Male,71,1,3,Primary,Employed,Married,1,0,0,2,0,40000000,1.7,1.5,61792776,59408776,1,1,4,14,24,House,5,120
+92,Rural,0,Markazi,Male,31,1,6,Primary,Employed,Married,1,0,0,3,1,33290000,2.2,1.8,58233164,63063164,1,1,4,14,24,House,3,90
+92,Rural,11,Sistan & Baluchistan,Female,46,0,0,Illiterate,Housekeeper,Married,0,0,0,2,1,0,1.5,1.3,51317776,27349776,NA,1,3,15,23,House,2,24
+92,Rural,0,Markazi,Male,53,0,0,Illiterate,Employed,Married,1,0,0,3,0,40050000,2.4,2,100139164,64423164,1,1,4,14,24,House,5,120
+92,Rural,1,Guilan,Male,65,0,0,Illiterate,Employed,Married,1,0,0,2,0,10000000,1.7,1.5,56928176,28247176,1,1,4,14,24,House,4,90
+92,Rural,24,Ardebil,Male,35,1,12,Secondary,Employed,Married,1,0,0,4,2,96460000,2.7,2.1,86445552,149677552,1,1,3,11,21,House,3,80
+92,Rural,3,East Azerbaijan,Female,81,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,6400000,1,1,42901588,19964388,1,1,3,11,21,Free,1,20
+92,Rural,29,South Khorasan,Female,49,0,0,Illiterate,Employed,Widowed,1,0,0,3,1,22000000,2.2,1.8,74589164,52841164,1,1,3,11,21,House,3,70
+92,Rural,4,West Azerbaijan,Male,34,1,2,Primary,Employed,Married,1,0,0,5,3,43300000,3.2,2.4,93263164,70823164,NA,1,3,11,21,House,2,80
+92,Rural,16,Ilam,Male,77,0,0,Illiterate,Employed,Married,1,0,0,2,0,68000000,1.7,1.5,34619312,88745312,1,1,3,13,23,House,3,100
+92,Rural,5,Kermanshah,Male,71,1,6,Primary,Employed,Married,1,0,0,4,2,49000000,2.7,2.1,91042552,109417552,1,1,4,14,24,House,2,40
+92,Rural,17,Kohgiluye & Boyerahmad,Female,65,0,0,Illiterate,Income without Work,Widowed,0,0,1,4,1,60000000,2.9,2.3,103477552,98657552,1,1,3,11,26,House,2,32
+92,Rural,8,Kerman,Female,66,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,67600000,1,1,30657000,85760000,1,1,4,14,24,House,1,80
+92,Rural,22,Hormozgan,Male,81,0,0,Illiterate,Employed,Married,1,0,0,2,0,10500000,1.7,1.5,65650000,46100000,1,1,3,20,25,House,3,80
+92,Rural,5,Kermanshah,Male,57,1,6,Primary,Employed,Married,1,0,0,5,1,91500000,3.6,2.8,172138340,140931940,1,1,4,14,24,House,3,60
+92,Rural,29,South Khorasan,Male,47,1,3,Primary,Employed,Married,1,0,0,4,2,60000000,2.7,2.1,103269552,98855552,1,1,3,11,21,House,4,75
+92,Rural,16,Ilam,Male,79,0,0,Illiterate,Employed,Married,1,0,0,2,0,56500000,1.7,1.5,49906000,84100000,1,1,4,14,24,House,4,120
+92,Rural,7,Fars,Male,44,1,9,Secondary,Employed,Married,1,0,0,5,3,77960000,3.2,2.4,83575940,136957940,NA,1,3,11,26,House,3,70
+92,Rural,30,Alborz,Male,51,1,6,Primary,Employed,Married,1,0,0,8,4,144000000,5.1,3.7,97465000,1.56E+08,1,1,4,14,24,ToServe,3,45
+92,Rural,29,South Khorasan,Male,46,0,0,Illiterate,Employed,Married,1,0,0,3,1,37000000,2.2,1.8,77053164,72263164,1,1,3,11,21,House,4,70
+92,Rural,1,Guilan,Female,82,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,16600000,1,1,45708200,34579200,1,1,4,14,24,House,1,15
+92,Rural,9,Razavi Khorasan,Male,43,1,5,Primary,Employed,Married,1,0,0,4,2,32400000,2.7,2.1,53863192,72417552,1,1,3,11,23,House,3,110
+92,Rural,14,Chaharmahal & Bakhtiari,Male,37,0,0,Illiterate,Employed,Married,1,0,0,6,3,40000000,3.9,2.9,85251028,89286328,1,1,4,14,24,House,2,110
+92,Rural,29,South Khorasan,Male,40,1,6,Primary,Employed,Married,1,0,0,4,2,50000000,2.7,2.1,90790152,81897552,1,1,3,11,23,House,5,140
+92,Rural,20,Semnan,Male,35,1,5,Primary,Employed,Married,1,0,0,6,4,81000000,3.7,2.7,113482000,8.70E+07,1,1,3,11,23,Free,4,70
+92,Rural,6,Khouzestan,Male,54,0,0,Illiterate,Employed,Married,1,0,0,6,1,50500000,4.3,3.3,134076716,107200716,1,1,4,14,24,House,4,150
+92,Rural,4,West Azerbaijan,Male,54,1,4,Primary,Employed,Married,1,0,0,6,0,37910000,4.5,3.5,154805528,95884328,1,1,3,11,21,House,3,80
+92,Rural,16,Ilam,Male,50,0,0,Illiterate,Employed,Married,1,0,0,4,0,72000000,3.1,2.5,90815200,109200000,1,1,3,11,23,House,4,100
+92,Rural,22,Hormozgan,Male,75,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,2500000,1.7,1.5,65978776,31648776,1,1,3,20,25,House,4,130
+92,Rural,9,Razavi Khorasan,Male,25,1,6,Primary,Employed,Married,1,0,0,4,2,32000000,2.7,2.1,86514072,61217552,1,1,4,14,24,Free,3,50
+92,Rural,30,Alborz,Male,42,1,9,Secondary,Employed,Married,1,0,0,4,2,92000000,2.7,2.1,86930000,157440000,1,1,4,14,24,House,4,90
+92,Rural,28,North Khorasan,Male,73,0,0,Illiterate,Employed,Married,1,0,0,5,0,113000000,3.8,3,154169940,171771940,1,1,4,14,24,House,5,100
+92,Rural,6,Khouzestan,Male,47,0,0,Illiterate,Employed,Married,1,0,0,7,2,42280000,4.8,3.6,126436716,115370716,1,1,3,15,25,House,6,130
+92,Rural,7,Fars,Male,42,1,7,Secondary,Employed,Married,1,0,0,3,1,23500000,2.2,1.8,87779164,63197164,1,1,3,11,23,House,5,140
+92,Rural,8,Kerman,Male,69,0,0,Illiterate,Income without Work,Divorced,0,0,1,1,0,68800000,1,1,40764000,84560000,1,1,4,14,24,House,2,130
+92,Rural,3,East Azerbaijan,Female,53,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,12000000,1,1,43848388,28024388,1,1,3,11,21,House,2,40
+92,Rural,15,Lorestan,Male,34,1,9,Secondary,Employed,Married,1,0,0,5,3,69000000,3.2,2.4,100927940,107001940,1,1,3,11,23,Free,1,21
+92,Rural,7,Fars,Male,43,1,6,Primary,Employed,Married,1,0,0,4,1,103300000,2.9,2.3,107022552,142117552,1,1,3,11,23,House,5,110
+92,Rural,1,Guilan,Male,79,0,0,Illiterate,Income without Work,Widowed,0,0,1,5,2,71440000,3.4,2.6,133051820,128409940,1,1,4,14,24,House,4,100
+92,Rural,4,West Azerbaijan,Male,35,1,9,Secondary,Employed,Married,1,0,0,5,3,56000000,3.2,2.4,49872940,92671940,1,1,3,11,21,House,1,14
+92,Rural,28,North Khorasan,Female,23,1,6,Primary,Income without Work,Married,0,0,1,2,1,20000000,1.5,1.3,50970164,26343164,1,1,4,14,24,House,2,36
+92,Rural,11,Sistan & Baluchistan,Male,34,1,9,Secondary,Employed,Married,1,0,0,5,3,43200000,3.2,2.4,61535940,81383940,NA,1,3,15,23,House,2,24
+92,Rural,0,Markazi,Male,54,1,6,Primary,Employed,Married,1,0,0,1,0,40850000,1,1,38993000,51390000,1,1,4,14,24,House,1,40
+92,Rural,24,Ardebil,Male,37,1,6,Primary,Employed,Married,1,0,0,4,2,80700000,2.7,2.1,93166000,129260000,1,1,3,11,21,Free,2,50
+92,Rural,30,Alborz,Male,45,1,6,Primary,Employed,Married,1,0,0,3,0,72000000,2.4,2,91503000,1.08E+08,1,1,4,14,24,House,3,75
+92,Rural,22,Hormozgan,Female,58,0,0,Illiterate,Housekeeper,Widowed,0,0,0,2,0,38500000,1.7,1.5,51382000,58652000,1,1,3,15,25,House,4,125
+92,Rural,29,South Khorasan,Male,45,1,4,Primary,Employed,Married,1,0,0,5,3,29000000,3.2,2.4,117591940,74811940,1,1,3,11,21,House,5,80
+92,Rural,30,Alborz,Male,32,1,9,Secondary,Employed,Married,1,0,0,3,1,100000000,2.2,1.8,83832200,154930000,1,1,4,14,24,House,3,75
+92,Rural,12,Kurdistan,Male,31,1,9,Secondary,Employed,Married,1,0,0,3,1,68000000,2.2,1.8,86980564,88113164,1,1,4,14,24,Rental,2,60
+92,Rural,13,Hamedan,Male,52,1,5,Primary,Employed,Married,1,0,0,4,1,237800000,2.9,2.3,105641552,302067552,1,1,4,14,24,House,6,240
+92,Rural,17,Kohgiluye & Boyerahmad,Male,48,1,5,Primary,Employed,Married,1,0,0,5,3,58400000,3.2,2.4,107791940,103771940,1,1,3,11,21,House,5,120
+92,Rural,29,South Khorasan,Female,64,0,0,Illiterate,Employed,Widowed,1,0,0,1,0,14500000,1,1,45354388,29652388,1,1,3,11,21,House,3,70
+92,Rural,4,West Azerbaijan,Male,45,1,2,Primary,Employed,Married,1,0,0,7,4,10000000,4.4,3.2,150440716,95120716,1,1,3,11,21,House,2,70
+92,Rural,3,East Azerbaijan,Male,28,0,0,Illiterate,Employed,Married,1,0,0,4,2,38650000,2.7,2.1,92303552,68357552,1,1,4,14,24,House,2,100
+92,Rural,9,Razavi Khorasan,Male,67,1,5,Primary,Income without Work,Married,0,0,1,2,0,44160000,1.7,1.5,58660600,65160000,1,1,4,14,24,House,4,110
+92,Rural,19,Zanjan,Male,36,1,9,Secondary,Employed,Married,1,0,0,4,2,75000000,2.7,2.1,85451552,109097552,1,1,4,14,24,House,2,64
+92,Rural,28,North Khorasan,Male,33,1,14,University,Employed,Married,1,0,0,3,1,42000000,2.2,1.8,67420164,67723164,1,1,3,11,21,ToServe,3,60
+92,Rural,17,Kohgiluye & Boyerahmad,Male,63,0,0,Illiterate,Income without Work,Married,0,0,1,7,0,112000000,5.2,4,212966716,159970716,1,1,3,13,23,House,3,90
+92,Rural,22,Hormozgan,Male,53,1,12,Secondary,Employed,Married,1,0,0,5,0,88900000,3.8,3,124218000,151935000,1,1,3,20,25,House,4,120
+92,Rural,9,Razavi Khorasan,Male,27,1,9,Secondary,Employed,Married,1,0,0,3,1,64200000,2.2,1.8,82916600,129570000,1,1,4,14,24,Free,3,70
+92,Rural,26,Qazvin,Male,84,0,0,Illiterate,Employed,Married,1,0,0,2,0,38225000,1.7,1.5,69427776,77361776,1,1,3,11,23,House,3,60
+92,Rural,0,Markazi,Male,63,0,0,Illiterate,Employed,Married,1,0,0,2,0,35350000,1.7,1.5,68787776,55458776,1,1,4,14,24,House,3,90
+92,Rural,12,Kurdistan,Male,49,1,5,Primary,Income without Work,Married,0,0,1,5,1,60000000,3.6,2.8,125984940,113441940,1,1,3,11,23,House,3,100
+92,Rural,14,Chaharmahal & Bakhtiari,Female,33,1,6,Primary,Income without Work,Married,0,0,1,3,2,18000000,2,1.6,76083000,52140000,1,1,4,14,24,House,3,120
+92,Rural,30,Alborz,Male,39,1,9,Secondary,Employed,Married,1,0,0,3,1,5400000,2.2,1.8,84326000,45384000,1,1,4,14,24,ToServe,3,30
+92,Rural,24,Ardebil,Male,37,1,6,Primary,Employed,Married,1,0,0,4,2,31450000,2.7,2.1,89868552,63667552,1,1,4,14,24,House,2,35
+92,Rural,5,Kermanshah,Male,36,1,9,Secondary,Employed,Married,1,0,0,3,1,14000000,2.2,1.8,80746964,44913164,1,1,3,11,23,House,3,50
+92,Rural,9,Razavi Khorasan,Male,61,0,0,Illiterate,Income without Work,Married,0,0,1,5,0,64600000,3.8,3,135864840,158121940,1,1,4,14,24,House,4,150
+92,Rural,30,Alborz,Male,89,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,36000000,1.7,1.5,71691400,78620000,1,1,4,14,24,House,4,80
+92,Rural,22,Hormozgan,Male,30,1,12,Secondary,Employed,Divorced,1,0,0,1,0,32500000,1,1,47102388,40599388,NA,1,3,20,30,Free,1,12
+92,Rural,3,East Azerbaijan,Male,32,1,9,Secondary,Employed,Married,1,0,0,4,2,-7100000,2.7,2.1,83045552,39537552,1,1,4,11,21,House,3,60
+92,Rural,9,Razavi Khorasan,Female,73,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,24500000,1,1,49964788,39250388,1,1,4,14,24,House,3,40
+92,Rural,0,Markazi,Male,71,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,50000000,1.7,1.5,83466000,67480000,1,1,3,11,23,House,3,70
+92,Rural,25,Qom,Male,45,1,8,Secondary,Employed,Married,1,0,0,5,3,60000000,3.2,2.4,128889940,106721940,1,1,4,14,24,House,3,90
+92,Rural,22,Hormozgan,Male,43,1,6,Primary,Employed,Married,1,0,0,4,2,31500000,2.7,2.1,98736000,74324000,1,1,3,15,25,House,5,130
+92,Rural,3,East Azerbaijan,Male,47,0,0,Illiterate,Employed,Married,1,0,0,4,1,48000000,2.9,2.3,99815552,78497552,1,1,4,14,24,House,3,110
+92,Rural,14,Chaharmahal & Bakhtiari,Male,41,1,5,Primary,Employed,Married,1,0,0,4,2,50800000,2.7,2.1,104286052,89497552,1,1,3,11,23,House,4,100
+92,Rural,2,Mazandaran,Male,55,1,6,Primary,Employed,Married,1,0,0,4,0,122090000,3.1,2.5,116117752,175651552,NA,1,4,14,24,House,5,100
+92,Rural,25,Qom,Male,35,1,6,Primary,Employed,Married,1,0,0,4,2,54000000,2.7,2.1,87565552,89017552,1,1,4,14,24,House,2,65
+92,Rural,15,Lorestan,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,180000000,2.4,2,58797968,216127968,1,1,4,14,24,House,3,60
+92,Rural,13,Hamedan,Male,57,1,3,Primary,Employed,Married,1,0,0,8,0,161100000,5.9,4.5,217492104,235175104,1,1,4,14,24,House,3,80
+92,Rural,0,Markazi,Female,83,0,0,Illiterate,Other,Widowed,0,0,0,1,0,9350000,1,1,54108388,23604388,1,1,4,14,24,House,3,60
+92,Rural,12,Kurdistan,Male,40,1,9,Secondary,Employed,Married,1,0,0,8,6,72000000,4.7,3.3,144689304,137875104,1,1,3,11,21,Free,4,100
+92,Rural,3,East Azerbaijan,Male,40,1,6,Primary,Employed,Married,1,0,0,4,2,60000000,2.7,2.1,87187552,107297552,1,1,4,14,24,House,3,80
+92,Rural,0,Markazi,Male,62,1,3,Primary,Employed,Married,1,0,0,2,0,22800000,1.7,1.5,70634776,44968776,1,1,4,14,24,House,3,70
+92,Rural,3,East Azerbaijan,Male,42,1,5,Primary,Employed,Married,1,0,0,6,4,1975000,3.7,2.7,123128328,70711328,1,1,3,11,21,House,2,50
+92,Rural,14,Chaharmahal & Bakhtiari,Male,60,0,0,Illiterate,Employed,Married,1,0,0,5,2,40000000,3.4,2.6,118123500,88100000,1,1,4,14,24,House,3,110
+92,Rural,13,Hamedan,Male,28,1,8,Secondary,Employed,Married,1,0,0,3,1,49500000,2.2,1.8,100010164,79333164,1,1,3,11,23,House,2,40
+92,Rural,29,South Khorasan,Male,77,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,35000000,1.7,1.5,70042776,51568776,1,1,3,11,21,House,5,100
+92,Rural,28,North Khorasan,Male,43,0,0,Illiterate,Employed,Married,1,0,0,6,4,13500000,3.7,2.7,110774528,52346328,1,1,3,11,21,House,3,100
+92,Rural,13,Hamedan,Male,39,1,7,Secondary,Employed,Married,1,0,0,3,1,32000000,2.2,1.8,49360164,53073164,1,1,4,14,24,Rental,2,42
+92,Rural,19,Zanjan,Male,29,1,7,Secondary,Employed,Married,1,0,0,2,0,67500000,1.7,1.5,55950776,85148776,1,1,3,11,21,Free,2,40
+92,Rural,20,Semnan,Male,27,1,6,Primary,Employed,Married,1,0,0,3,1,36000000,2.2,1.8,51097351,69462352,1,1,4,14,24,House,4,100
+92,Rural,5,Kermanshah,Female,40,1,6,Primary,Employed,Widowed,1,0,0,3,2,24310000,2,1.6,77786364,60083164,1,1,3,11,23,House,4,120
+92,Rural,19,Zanjan,Male,55,0,0,Illiterate,Employed,Married,1,0,0,5,2,27800000,3.4,2.6,110796240,65921940,1,1,3,11,23,House,2,60
+92,Rural,5,Kermanshah,Male,44,0,0,Illiterate,Employed,Married,1,0,0,4,2,33000000,2.7,2.1,59430952,63842552,1,1,4,14,24,House,3,70
+92,Rural,17,Kohgiluye & Boyerahmad,Female,77,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,11200000,1,1,48544388,24942388,1,1,3,11,21,House,2,40
+92,Rural,13,Hamedan,Male,43,1,5,Primary,Employed,Married,1,0,0,4,1,140000000,2.9,2.3,113878552,171697552,1,1,4,14,24,House,3,47
+92,Rural,15,Lorestan,Male,29,1,8,Secondary,Employed,Married,1,0,0,5,2,67000000,3.4,2.6,53954624,110280624,1,1,4,14,24,House,2,28
+92,Rural,9,Razavi Khorasan,Male,57,0,0,Illiterate,Employed,Married,1,0,0,3,1,63600000,2.2,1.8,75748364,92203164,1,1,4,14,24,House,4,80
+92,Rural,30,Alborz,Male,33,1,6,Primary,Employed,Married,1,0,0,4,2,88000000,2.7,2.1,98024000,154640000,1,1,4,14,24,House,3,75
+92,Rural,16,Ilam,Male,90,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,30000000,2.4,2,52931968,57517968,1,1,3,11,23,House,2,80
+92,Rural,0,Markazi,Male,33,1,9,Secondary,Unemployed,Married,0,1,0,3,1,40000000,2.2,1.8,82614364,70013164,1,1,4,14,24,House,3,50
+92,Rural,3,East Azerbaijan,Male,64,1,6,Primary,Employed,Married,1,0,0,3,1,45000000,2.2,1.8,190628000,69570000,1,1,4,14,24,House,3,100
+92,Rural,30,Alborz,Male,40,1,3,Primary,Employed,Married,1,0,0,5,3,46500000,3.2,2.4,94081000,75300000,1,1,4,14,24,Bonded,3,75
+92,Rural,6,Khouzestan,Male,39,0,0,Illiterate,Employed,Married,1,0,0,9,6,49440000,5.4,3.8,143486492,134979492,1,1,3,15,25,House,3,85
+92,Rural,16,Ilam,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,6,0,72000000,4.5,3.5,83793936,121035936,1,1,3,13,23,House,4,110
+92,Rural,7,Fars,Male,43,1,3,Primary,Employed,Married,1,0,0,5,3,104000000,3.2,2.4,87088940,154321940,1,1,4,14,24,House,6,180
+92,Rural,19,Zanjan,Male,39,1,2,Primary,Employed,Married,1,0,0,4,2,63000000,2.7,2.1,86730552,105857552,1,1,3,11,21,House,3,80
+92,Rural,22,Hormozgan,Male,28,1,6,Primary,Employed,Married,1,0,0,3,1,36000000,2.2,1.8,82421000,72645000,1,1,3,20,25,House,2,45
+92,Rural,16,Ilam,Male,75,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,6000000,2.4,2,55401968,33517968,1,1,3,11,23,House,2,100
+92,Rural,8,Kerman,Female,47,1,5,Primary,Income without Work,Divorced,0,0,1,2,1,4800000,1.5,1.3,41939928,29792000,1,1,4,14,24,House,1,70
+92,Rural,29,South Khorasan,Male,60,0,0,Illiterate,Employed,Married,1,0,0,2,0,21000000,1.7,1.5,79404976,43588776,1,1,3,11,23,House,4,80
+92,Rural,3,East Azerbaijan,Male,70,0,0,Illiterate,Employed,Married,1,0,0,2,0,57800000,1.7,1.5,75427776,79648776,1,1,4,14,24,House,2,100
+92,Rural,24,Ardebil,Male,37,1,4,Primary,Employed,Married,1,0,0,4,2,73600000,2.7,2.1,107412552,108337552,1,1,4,14,24,House,4,90
+92,Rural,7,Fars,Male,68,1,6,Primary,Employed,Married,1,0,0,5,1,52000000,3.6,2.8,99212940,119291940,1,1,3,11,23,House,4,100
+92,Rural,11,Sistan & Baluchistan,Male,64,0,0,Illiterate,Employed,Married,1,0,0,9,4,7500000,5.8,4.2,98753192,99529192,NA,1,3,15,25,House,3,60
+92,Rural,7,Fars,Male,25,1,7,Secondary,Employed,Married,1,0,0,4,2,22000000,2.7,2.1,106431952,69337552,NA,NA,3,11,23,House,1,20
+92,Rural,5,Kermanshah,Male,30,1,9,Secondary,Employed,Married,1,0,0,5,2,155000000,3.4,2.6,147734388,198474388,1,1,4,14,24,House,3,60
+92,Rural,17,Kohgiluye & Boyerahmad,Male,36,1,6,Primary,Employed,Married,1,0,0,7,4,70000000,4.4,3.2,155033716,120620716,1,1,4,14,24,House,5,150
+92,Rural,19,Zanjan,Male,66,0,0,Illiterate,Employed,Married,1,0,0,7,1,14600000,5,3.8,153270716,69170716,1,1,3,11,21,House,3,80
+92,Rural,3,East Azerbaijan,Male,52,1,9,Secondary,Employed,Married,1,0,0,2,0,15000000,1.7,1.5,89886776,48988776,1,1,4,14,24,House,3,90
+92,Rural,29,South Khorasan,Male,47,1,4,Primary,Employed,Married,1,0,0,3,1,25000000,2.2,1.8,139321140,54809940,1,1,3,11,21,House,2,45
+92,Rural,1,Guilan,Male,74,1,5,Primary,Income without Work,Married,0,0,1,3,0,24900000,2.4,2,109388764,68098764,1,1,4,14,24,House,4,89
+92,Rural,6,Khouzestan,Male,29,1,6,Primary,Employed,Married,1,0,0,4,2,36550000,2.7,2.1,82831552,74167552,1,1,3,15,25,Free,3,85
+92,Rural,26,Qazvin,Male,32,1,9,Secondary,Employed,Married,1,0,0,3,1,90000000,2.2,1.8,76082164,116113164,1,1,3,11,21,House,3,40
+92,Rural,16,Ilam,Male,50,0,0,Illiterate,Unemployed,Married,0,1,0,5,1,0,3.6,2.8,66901280,39863280,1,1,3,11,23,House,3,80
+92,Rural,17,Kohgiluye & Boyerahmad,Male,30,1,12,Secondary,Employed,Married,1,0,0,3,1,38000000,2.2,1.8,64095164,62643164,1,1,3,11,21,Free,3,100
+92,Rural,26,Qazvin,Male,60,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,78000000,1.7,1.5,45424000,104260000,1,1,4,14,24,House,3,70
+92,Rural,29,South Khorasan,Male,41,1,6,Primary,Employed,Married,1,0,0,7,5,56000000,4.2,3,118300716,108118716,1,1,3,11,21,House,5,100
+92,Rural,26,Qazvin,Female,60,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,68800000,1.7,1.5,49759000,93980000,1,1,4,14,24,House,3,80
+92,Rural,4,West Azerbaijan,Male,58,0,0,Illiterate,Employed,Married,1,0,0,3,0,90000000,2.4,2,92854564,135979164,1,1,3,11,21,House,2,80
+92,Rural,17,Kohgiluye & Boyerahmad,Male,32,0,0,Illiterate,Employed,Married,1,0,0,4,2,80000000,2.7,2.1,120707164,100743164,1,1,3,13,23,House,2,50
+92,Rural,18,Boushehr,Male,90,0,0,Illiterate,Income without Work,Married,0,0,1,4,0,6000000,3.1,2.5,67949024,39330624,1,1,3,11,25,House,3,100
+92,Rural,15,Lorestan,Male,50,0,0,Illiterate,Employed,Married,1,0,0,5,0,74300000,3.8,3,140966940,153641940,1,1,3,11,23,House,3,100
+92,Rural,10,Isfahan,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,23040000,2.2,1.8,66491164,46753164,1,1,4,14,24,Rental,3,50
+92,Rural,0,Markazi,Male,36,1,6,Primary,Employed,Married,1,0,0,4,2,45400000,2.7,2.1,78468552,74817552,1,1,4,14,24,Free,2,30
+92,Rural,13,Hamedan,Male,56,0,0,Illiterate,Employed,Married,1,0,0,3,1,44700000,2.2,1.8,84833164,82883164,1,1,3,11,21,House,4,70
+92,Rural,4,West Azerbaijan,Male,52,1,5,Primary,Employed,Married,1,0,0,3,0,93200000,2.4,2,102188352,142697552,1,1,3,11,21,House,4,200
+92,Rural,30,Alborz,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,108000000,2.2,1.8,75505000,149130000,1,1,4,14,24,Rental,3,70
+92,Rural,12,Kurdistan,Male,34,1,6,Primary,Employed,Married,1,0,0,4,2,48000000,2.7,2.1,87871752,89217552,1,1,4,14,24,House,4,120
+92,Rural,22,Hormozgan,Male,33,1,6,Primary,Employed,Married,1,0,0,4,2,42000000,2.7,2.1,100845000,84860000,1,1,3,20,25,House,3,80
+92,Rural,28,North Khorasan,Female,63,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,90000000,1,1,32277600,102310000,1,1,4,14,24,House,2,40
+92,Rural,16,Ilam,Male,21,1,4,Primary,Employed,Married,1,0,0,2,0,9250000,1.7,1.5,44693312,31195312,1,1,3,11,23,House,2,30
+92,Rural,6,Khouzestan,Male,75,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,25000000,2.4,2,85451164,66833164,1,1,3,15,25,House,2,40
+92,Rural,25,Qom,Male,72,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,94800000,2.4,2,69666164,125563164,1,1,4,14,24,House,3,90
+92,Rural,16,Ilam,Female,60,0,0,Illiterate,Employed,Widowed,1,0,0,6,1,77400000,4.3,3.3,75789936,127635936,1,1,3,11,23,House,4,100
+92,Rural,2,Mazandaran,Male,29,1,12,Secondary,Employed,Married,1,0,0,3,1,30455000,2.2,1.8,58513800,60773000,1,1,4,14,24,House,3,54
+92,Rural,12,Kurdistan,Female,76,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,5400000,1,1,45747688,19304388,1,1,4,14,24,Free,5,100
+92,Rural,11,Sistan & Baluchistan,Male,31,1,6,Primary,Employed,Married,1,0,0,3,1,23200000,2.2,1.8,108719164,64193164,1,1,3,11,21,House,3,80
+92,Rural,23,Tehran,Male,47,0,0,Illiterate,Employed,Married,1,0,0,4,1,84000000,2.9,2.3,66574000,1.02E+08,1,1,4,14,24,ToServe,3,80
+92,Rural,18,Boushehr,Male,54,0,0,Illiterate,Employed,Married,1,0,0,6,2,40000000,4.1,3.1,72974736,86995936,1,1,3,11,25,House,3,100
+92,Rural,9,Razavi Khorasan,Male,40,1,6,Primary,Employed,Married,1,0,0,5,2,34000000,3.4,2.6,125188940,117321940,1,1,3,13,23,House,4,50
+92,Rural,14,Chaharmahal & Bakhtiari,Male,35,1,6,Primary,Employed,Married,1,0,0,2,0,46500000,1.7,1.5,59976176,77848776,1,1,4,14,24,House,3,140
+92,Rural,16,Ilam,Male,31,1,6,Primary,Employed,Married,1,0,0,2,0,72000000,1.7,1.5,48009312,92745312,1,1,3,11,23,House,3,100
+92,Rural,1,Guilan,Female,36,1,12,Secondary,Employed,Bachelor,1,0,0,3,0,53040000,2.4,2,92020644,114831644,1,1,4,14,24,House,4,80
+92,Rural,5,Kermanshah,Male,25,1,6,Primary,Employed,Married,1,0,0,3,1,50000000,2.2,1.8,12004376,73834776,1,1,3,11,23,Free,3,38
+92,Rural,30,Alborz,Male,65,1,7,Secondary,Income without Work,Widowed,0,0,1,4,0,56210000,3.1,2.5,108047000,104830000,1,1,4,14,24,House,3,60
+92,Rural,20,Semnan,Male,23,1,4,Primary,Employed,Married,1,0,0,4,2,81000000,2.7,2.1,129916000,8.70E+07,1,1,3,12,23,Free,5,90
+92,Rural,30,Alborz,Male,50,1,9,Secondary,Employed,Married,1,0,0,3,1,60000000,2.2,1.8,86081164,104473164,1,1,4,14,24,House,4,75
+92,Rural,13,Hamedan,Male,26,1,7,Secondary,Employed,Married,1,0,0,3,1,40000000,2.2,1.8,46424000,70330000,1,1,3,11,21,Free,2,40
+92,Rural,28,North Khorasan,Male,51,1,6,Primary,Income without Work,Married,0,0,1,4,0,42000000,3.1,2.5,60232552,71697552,1,1,3,11,30,House,3,75
+92,Rural,22,Hormozgan,Male,36,1,9,Secondary,Employed,Married,1,0,0,5,3,66000000,3.2,2.4,134365000,124480000,1,1,3,15,25,House,5,140
+92,Rural,12,Kurdistan,Male,33,1,6,Primary,Employed,Married,1,0,0,4,2,72000000,2.7,2.1,89763632,109017552,NA,1,4,14,24,House,4,104
+92,Rural,0,Markazi,Male,75,0,0,Illiterate,Employed,Married,1,0,0,2,0,12900000,1.7,1.5,85000388,33134388,1,1,4,14,24,House,4,50
+92,Rural,8,Kerman,Male,37,1,6,Primary,Employed,Married,1,0,0,4,2,30000000,2.7,2.1,78352000,58050000,1,1,3,11,21,House,2,40
+92,Rural,29,South Khorasan,Male,54,1,4,Primary,Employed,Married,1,0,0,3,1,54000000,2.2,1.8,107100164,126651164,1,1,3,13,21,House,5,100
+92,Rural,2,Mazandaran,Female,47,0,0,Illiterate,Employed,Widowed,1,0,0,5,1,90640000,3.6,2.8,153476140,144697940,NA,1,4,14,24,House,5,120
+92,Rural,29,South Khorasan,Male,63,1,3,Primary,Employed,Widowed,1,0,0,2,0,13400000,1.7,1.5,91468776,35586776,1,1,3,11,21,House,4,70
+92,Rural,6,Khouzestan,Male,27,1,6,Primary,Employed,Married,1,0,0,3,1,32290000,2.2,1.8,91912776,61888776,1,1,3,15,25,Free,3,80
+92,Rural,22,Hormozgan,Male,51,0,0,Illiterate,Employed,Married,1,0,0,6,2,36000000,4.1,3.1,141574328,93446328,1,1,3,20,25,House,4,100
+92,Rural,25,Qom,Male,52,1,6,Primary,Employed,Married,1,0,0,5,2,130000000,3.4,2.6,130094940,177851940,1,1,4,14,24,House,4,90
+92,Rural,19,Zanjan,Male,27,1,6,Primary,Employed,Married,1,0,0,3,1,52500000,2.2,1.8,39335564,76573164,1,1,3,11,23,House,2,60
+92,Rural,7,Fars,Male,38,1,6,Primary,Employed,Married,1,0,0,5,3,44640000,3.2,2.4,131234940,90161940,1,1,3,11,25,House,5,145
+92,Rural,22,Hormozgan,Male,29,1,9,Secondary,Unemployed,Married,0,1,0,2,0,1000000,1.7,1.5,78628000,31350000,1,1,3,13,30,House,2,70
+92,Rural,0,Markazi,Male,38,1,6,Primary,Employed,Married,1,0,0,4,2,26100000,2.7,2.1,100432952,97217552,1,1,4,14,24,House,3,50
+92,Rural,2,Mazandaran,Male,39,1,9,Secondary,Employed,Married,1,0,0,4,2,31720000,2.7,2.1,100457452,93861552,NA,1,4,14,24,House,5,100
+92,Rural,16,Ilam,Male,42,1,9,Secondary,Income without Work,Married,0,0,1,5,2,39000000,3.4,2.6,88159000,77580000,1,1,3,11,23,House,2,60
+92,Rural,7,Fars,Female,25,1,9,Secondary,Income without Work,Married,0,0,1,2,1,36800000,1.5,1.3,72996000,72196000,1,1,3,11,25,House,5,120
+92,Rural,29,South Khorasan,Female,38,1,2,Primary,Employed,Married,1,0,0,2,1,30000000,1.5,1.3,69411776,43608776,1,1,3,11,23,House,4,70
+92,Rural,2,Mazandaran,Male,55,1,5,Primary,Income without Work,Widowed,0,0,1,3,0,55600000,2.4,2,89928500,86842000,1,1,4,14,24,House,4,110
+92,Rural,17,Kohgiluye & Boyerahmad,Male,33,1,12,Secondary,Employed,Married,1,0,0,5,3,85000000,3.2,2.4,135341940,121921940,1,1,4,14,24,House,3,100
+92,Rural,19,Zanjan,Male,82,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,6000000,1.7,1.5,76238776,24248776,1,1,1,11,21,House,2,55
+92,Rural,6,Khouzestan,Male,44,1,6,Primary,Employed,Married,1,0,0,6,4,41300000,3.7,2.7,132822328,85126328,1,1,4,14,24,Rental,3,90
+92,Rural,17,Kohgiluye & Boyerahmad,Male,30,1,5,Primary,Employed,Married,1,0,0,5,3,25000000,3.2,2.4,170244940,112971940,1,1,3,11,23,House,3,70
+92,Rural,12,Kurdistan,Male,71,0,0,Illiterate,Income without Work,Married,0,0,1,4,0,32000000,3.1,2.5,58031152,62897552,1,1,3,11,21,House,4,80
+92,Rural,4,West Azerbaijan,Male,58,0,0,Illiterate,Employed,Married,1,0,0,3,1,67760000,2.2,1.8,95830164,100383164,1,1,3,11,21,House,2,60
+92,Rural,23,Tehran,Male,31,1,4,Primary,Employed,Married,1,0,0,3,1,108000000,2.2,1.8,100059000,145770000,1,1,4,14,24,Rental,3,80
+92,Rural,14,Chaharmahal & Bakhtiari,Male,47,0,0,Illiterate,Employed,Married,1,0,0,4,0,40000000,3.1,2.5,98887552,78457552,1,1,4,14,24,House,2,110
+92,Rural,30,Alborz,Male,29,1,9,Secondary,Employed,Bachelor,1,0,0,3,0,150000000,2.4,2,96303000,202530000,1,1,4,14,24,House,3,70
+92,Rural,24,Ardebil,Male,49,1,6,Primary,Employed,Married,1,0,0,3,1,56730000,2.2,1.8,99860164,96023164,1,1,3,11,27,House,4,100
+92,Rural,15,Lorestan,Female,37,0,0,Illiterate,Income without Work,Widowed,0,0,1,4,3,67200000,2.5,1.9,86390000,101680000,1,1,3,11,23,House,3,60
+92,Rural,9,Razavi Khorasan,Male,82,0,0,Illiterate,Employed,Married,1,0,0,2,0,23400000,1.7,1.5,78832776,51876776,1,1,4,14,24,House,4,70
+92,Rural,16,Ilam,Male,37,1,6,Primary,Employed,Married,1,0,0,4,2,72000000,2.7,2.1,52051624,108690624,1,1,3,11,23,House,5,110
+92,Rural,9,Razavi Khorasan,Female,84,0,0,Illiterate,Housekeeper,Widowed,0,0,0,1,0,0,1,1,56406388,15104388,1,1,3,13,23,House,3,80
+92,Rural,22,Hormozgan,Female,38,0,0,Illiterate,Income without Work,Divorced,0,0,1,2,1,900000,1.5,1.3,69538000,29450000,1,1,3,20,23,Free,2,60
+92,Rural,6,Khouzestan,Male,55,1,6,Primary,Employed,Married,1,0,0,6,4,61280000,3.7,2.7,116195328,114706328,1,1,3,15,25,House,4,100
+92,Rural,14,Chaharmahal & Bakhtiari,Male,25,0,0,Illiterate,Employed,Married,1,0,0,3,1,45000000,2.2,1.8,75415164,73243164,1,1,4,14,24,Free,2,110
+92,Rural,6,Khouzestan,Male,33,1,6,Primary,Employed,Married,1,0,0,3,1,36300000,2.2,1.8,84353164,70333164,1,1,3,15,25,Free,2,40
+92,Rural,23,Tehran,Male,33,1,8,Secondary,Employed,Married,1,0,0,3,1,73000000,2.2,1.8,75553000,117820000,1,1,4,14,24,Bonded,3,75
+92,Rural,16,Ilam,Male,66,0,0,Illiterate,Employed,Married,1,0,0,6,1,28000000,4.3,3.3,87335936,89755936,1,1,3,11,23,House,3,130
+92,Rural,8,Kerman,Male,28,1,9,Secondary,Employed,Married,1,0,0,3,1,41500000,2.2,1.8,68181164,66463164,1,1,3,11,21,Free,2,25
+92,Rural,29,South Khorasan,Male,48,0,0,Illiterate,Employed,Married,1,0,0,5,3,15300000,3.2,2.4,92270140,59131940,1,1,3,11,23,House,3,70
+92,Rural,22,Hormozgan,Male,43,1,6,Primary,Employed,Married,1,0,0,6,3,64400000,3.9,2.9,121961000,115256000,1,1,3,15,25,House,6,140
+92,Rural,16,Ilam,Male,59,1,5,Primary,Employed,Married,1,0,0,3,0,56700000,2.4,2,66018968,85417968,1,1,3,11,23,House,2,70
+92,Rural,26,Qazvin,Male,41,1,6,Primary,Employed,Married,1,0,0,3,1,61750000,2.2,1.8,81086964,99863164,1,1,3,11,21,House,3,80
+92,Rural,0,Markazi,Male,71,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,12800000,2.4,2,168089164,36243164,1,1,4,14,24,House,5,120
+92,Rural,22,Hormozgan,Male,48,0,0,Illiterate,Other,Married,0,0,0,7,2,64400000,4.8,3.6,166023000,111472000,1,1,3,15,25,House,5,140
+92,Rural,29,South Khorasan,Male,28,1,6,Primary,Employed,Married,1,0,0,3,1,80000000,2.2,1.8,86414164,107841164,1,1,3,11,23,House,3,60
+92,Rural,4,West Azerbaijan,Male,60,1,6,Primary,Employed,Married,1,0,0,7,0,127000000,5.2,4,174447388,188934388,1,1,3,11,23,House,6,150
+92,Rural,2,Mazandaran,Male,76,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,55025000,1.7,1.5,82905000,104135000,1,1,4,14,24,House,4,100
+92,Rural,5,Kermanshah,Male,47,1,12,Secondary,Employed,Married,1,0,0,4,1,66000000,2.9,2.3,81726000,122360000,1,1,4,14,24,Free,3,45
+92,Rural,3,East Azerbaijan,Male,52,0,0,Illiterate,Employed,Married,1,0,0,8,2,69150000,5.5,4.1,109191104,126955104,1,1,4,14,24,House,3,100
+92,Rural,12,Kurdistan,Male,39,1,6,Primary,Employed,Married,1,0,0,5,3,69000000,3.2,2.4,90982940,122909940,1,1,3,11,21,House,4,70
+92,Rural,22,Hormozgan,Female,41,1,6,Primary,Income without Work,Married,0,0,1,2,1,2000000,1.5,1.3,71760000,28750000,1,1,3,20,25,House,3,100
+92,Rural,17,Kohgiluye & Boyerahmad,Male,46,1,5,Primary,Employed,Married,1,0,0,5,3,133000000,3.2,2.4,134102540,168321940,1,1,3,13,23,House,4,110
+92,Rural,22,Hormozgan,Female,45,1,6,Primary,Income without Work,Widowed,0,0,1,7,1,7200000,5,3.8,212106000,64620000,NA,1,3,15,26,House,2,80
+92,Rural,2,Mazandaran,Male,44,1,6,Primary,Other,Married,0,0,0,3,1,47500000,2.2,1.8,74161200,93124000,1,1,4,14,24,House,3,75
+92,Rural,22,Hormozgan,Male,41,1,6,Primary,Employed,Married,1,0,0,6,3,72000000,3.9,2.9,164460000,121560000,NA,1,3,15,23,House,2,60
+92,Rural,17,Kohgiluye & Boyerahmad,Male,26,1,9,Secondary,Employed,Married,1,0,0,2,0,27000000,1.7,1.5,84262776,43508776,1,1,3,11,23,Rental,3,60
+92,Rural,22,Hormozgan,Male,29,1,6,Primary,Employed,Married,1,0,0,4,2,36400000,2.7,2.1,107310000,77440000,1,1,3,15,25,House,3,85
+92,Rural,13,Hamedan,Male,50,1,9,Secondary,Employed,Married,1,0,0,3,0,103000000,2.4,2,68027164,143823164,1,1,4,14,24,House,3,60
+92,Rural,16,Ilam,Male,54,1,6,Primary,Employed,Married,1,0,0,7,1,40000000,5,3.8,97670592,106908592,1,1,3,11,23,House,4,120
+92,Rural,12,Kurdistan,Male,25,1,4,Primary,Employed,Married,1,0,0,3,1,68000000,2.2,1.8,97637264,88113164,1,1,4,14,24,Rental,3,70
+92,Rural,23,Tehran,Male,40,1,5,Primary,Employed,Married,1,0,0,5,3,84000000,3.2,2.4,97970560,149832800,1,1,4,14,24,House,2,45
+92,Rural,8,Kerman,Male,39,1,12,Secondary,Employed,Married,1,0,0,4,2,65000000,2.7,2.1,77601552,101977552,1,1,3,11,23,House,2,50
+92,Rural,20,Semnan,Male,76,1,3,Primary,Income without Work,Married,0,0,1,4,1,20000000,2.9,2.3,77698552,57497552,1,1,4,14,24,House,4,150
+92,Rural,8,Kerman,Male,73,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,64000000,2.4,2,105478976,94300000,1,1,3,11,21,House,4,80
+92,Rural,0,Markazi,Male,25,1,9,Secondary,Employed,Married,1,0,0,2,0,7700000,1.7,1.5,86143776,33928776,1,1,4,14,24,Rental,3,50
+92,Rural,5,Kermanshah,Male,34,1,12,Secondary,Employed,Married,1,0,0,4,2,20000000,2.7,2.1,79386752,53225552,1,1,3,11,23,Free,3,70
+92,Rural,1,Guilan,Female,38,1,12,Secondary,Housekeeper,Married,0,0,0,1,0,24000000,1,1,62938388,38504388,NA,1,4,14,24,House,3,107
+92,Rural,29,South Khorasan,Female,56,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,47000000,1.7,1.5,98333776,68868776,1,1,3,11,21,House,4,80
+92,Rural,0,Markazi,Female,77,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,29400000,1.7,1.5,73258776,48548776,1,1,3,16,23,House,2,30
+92,Rural,15,Lorestan,Male,32,1,12,Secondary,Employed,Married,1,0,0,4,1,113700000,2.9,2.3,125419552,155237552,1,1,3,11,23,House,5,100
+92,Rural,28,North Khorasan,Male,40,0,0,Illiterate,Employed,Married,1,0,0,5,3,47400000,3.2,2.4,91303940,82471940,1,1,4,14,24,House,3,60
+92,Rural,12,Kurdistan,Male,52,1,6,Primary,Employed,Married,1,0,0,2,0,12950000,1.7,1.5,80778676,36138776,1,1,4,14,24,House,3,80
+92,Rural,5,Kermanshah,Male,45,1,9,Secondary,Employed,Bachelor,1,0,0,4,0,74850000,3.1,2.5,178972352,123075552,1,1,3,11,23,House,3,50
+92,Rural,7,Fars,Male,45,1,7,Secondary,Unemployed,Married,0,1,0,6,1,9000000,4.3,3.3,131743328,60866328,1,1,4,14,24,House,4,96
+92,Rural,9,Razavi Khorasan,Male,70,1,1,Primary,Employed,Married,1,0,0,4,0,10300000,3.1,2.5,141614352,51647552,1,1,4,14,24,House,4,90
+92,Rural,16,Ilam,Male,63,0,0,Illiterate,Employed,Married,1,0,0,5,0,112000000,3.8,3,99901280,154263280,1,1,3,11,23,House,3,60
+92,Rural,9,Razavi Khorasan,Female,49,1,6,Primary,Income without Work,Married,0,0,1,3,1,58000000,2.2,1.8,85145364,72743164,1,1,4,14,24,House,4,120
+92,Rural,9,Razavi Khorasan,Male,36,1,9,Secondary,Employed,Married,1,0,0,5,3,75200000,3.2,2.4,98349152,111617552,1,1,4,14,24,House,3,80
+92,Rural,17,Kohgiluye & Boyerahmad,Male,30,1,12,Secondary,Employed,Married,1,0,0,2,0,3080000,1.7,1.5,82202776,25888776,1,1,3,11,26,House,2,30
+92,Rural,19,Zanjan,Male,31,1,6,Primary,Employed,Married,1,0,0,3,1,45000000,2.2,1.8,52375664,65163164,1,1,3,11,21,House,2,60
+92,Rural,24,Ardebil,Female,49,1,5,Primary,Student,Married,0,0,0,5,3,72000000,3.2,2.4,140620800,136720000,1,1,3,11,23,House,4,100
+92,Rural,24,Ardebil,Male,84,1,1,Primary,Employed,Married,1,0,0,2,0,28550000,1.7,1.5,89535776,47958776,1,1,4,14,24,House,4,71
+92,Rural,24,Ardebil,Male,37,1,4,Primary,Employed,Married,1,0,0,3,1,68000000,2.2,1.8,1443164,100113164,1,1,4,14,24,Free,3,120
+92,Rural,14,Chaharmahal & Bakhtiari,Male,60,1,3,Primary,Employed,Married,1,0,0,3,0,91000000,2.4,2,110123164,120623164,1,1,3,11,23,House,4,90
+92,Rural,16,Ilam,Male,81,0,0,Illiterate,Employed,Married,1,0,0,6,0,22500000,4.5,3.5,113905936,72735936,1,1,3,13,23,House,3,100
+92,Rural,7,Fars,Male,80,0,0,Illiterate,Employed,Married,1,0,0,3,1,68500000,2.2,1.8,97641124,112775164,1,1,3,11,23,House,4,120
+92,Rural,3,East Azerbaijan,Male,70,0,0,Illiterate,Employed,Married,1,0,0,5,0,207500000,3.8,3,162576776,264874776,1,1,4,14,24,House,3,120
+92,Rural,24,Ardebil,Male,51,1,6,Primary,Employed,Married,1,0,0,6,2,143000000,4.1,3.1,129890328,194454328,1,1,4,14,24,House,4,90
+92,Rural,7,Fars,Male,52,1,6,Primary,Employed,Married,1,0,0,5,1,64455000,3.6,2.8,73110940,113276940,NA,1,3,16,26,House,2,40
+92,Rural,14,Chaharmahal & Bakhtiari,Male,55,0,0,Illiterate,Employed,Married,1,0,0,5,0,122300000,3.8,3,194808940,190471940,1,1,3,11,23,House,4,100
+92,Rural,13,Hamedan,Male,28,1,6,Primary,Employed,Married,1,0,0,3,1,20000000,2.2,1.8,42633164,45753164,1,1,3,11,21,Free,1,34
+92,Rural,14,Chaharmahal & Bakhtiari,Male,27,1,9,Secondary,Employed,Married,1,0,0,3,1,48000000,2.2,1.8,95891164,74023164,1,1,3,11,23,House,3,80
+92,Rural,22,Hormozgan,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,4000000,2.2,1.8,96723000,53485000,1,1,3,20,25,House,4,125
+92,Rural,5,Kermanshah,Male,40,1,6,Primary,Employed,Married,1,0,0,5,3,68960000,3.2,2.4,144615140,122581940,1,1,3,11,23,House,3,100
+92,Rural,5,Kermanshah,Male,27,1,6,Primary,Employed,Married,1,0,0,4,2,182900000,2.7,2.1,106938552,234290552,1,1,3,11,23,House,3,70
+92,Rural,16,Ilam,Male,35,1,14,University,Employed,Married,1,0,0,3,1,3500000,2.2,1.8,56961968,33417968,1,1,3,11,23,House,4,80
+92,Rural,24,Ardebil,Male,32,1,12,Secondary,Employed,Married,1,0,0,4,2,115500000,2.7,2.1,90557552,172317552,1,1,4,14,24,House,2,100
+92,Rural,13,Hamedan,Male,49,1,6,Primary,Employed,Married,1,0,0,6,1,58500000,4.3,3.3,89278328,107366328,1,1,4,14,24,House,3,36
+92,Rural,28,North Khorasan,Male,52,1,5,Primary,Employed,Married,1,0,0,4,1,86900000,2.9,2.3,153088552,137047552,1,1,3,11,21,House,3,70
+92,Rural,16,Ilam,Male,73,0,0,Illiterate,Employed,Married,1,0,0,3,1,6000000,2.2,1.8,63315968,34717968,1,1,3,11,23,House,3,100
+92,Rural,10,Isfahan,Male,27,1,9,Secondary,Employed,Married,1,0,0,3,1,63200000,2.2,1.8,65495576,121608776,1,1,4,14,24,House,4,115
+92,Rural,12,Kurdistan,Male,47,1,6,Primary,Employed,Married,1,0,0,6,1,125850000,4.3,3.3,140680328,197276328,1,1,4,14,24,House,3,85
+92,Rural,3,East Azerbaijan,Male,75,0,0,Illiterate,Employed,Married,1,0,0,2,0,68700000,1.7,1.5,92390776,122708776,1,1,3,11,21,House,3,50
+92,Rural,13,Hamedan,Male,48,0,0,Illiterate,Employed,Married,1,0,0,4,0,98720000,3.1,2.5,225890552,141697552,1,1,4,14,24,House,2,90
+92,Rural,5,Kermanshah,Male,70,0,0,Illiterate,Employed,Married,1,0,0,2,0,46000000,1.7,1.5,74124776,71408776,1,1,3,11,23,House,3,60
+92,Rural,4,West Azerbaijan,Male,58,1,5,Primary,Employed,Married,1,0,0,6,2,37200000,4.1,3.1,184604328,94130328,1,1,3,11,21,House,4,200
+92,Rural,4,West Azerbaijan,Male,35,1,6,Primary,Employed,Married,1,0,0,3,1,48300000,2.2,1.8,108450164,75823164,NA,1,3,11,21,House,2,100
+92,Rural,30,Alborz,Male,60,0,0,Illiterate,Employed,Married,1,0,0,3,0,105000000,2.4,2,92147000,148200000,1,1,4,14,24,Bonded,4,90
+92,Rural,28,North Khorasan,Male,61,1,6,Primary,Employed,Married,1,0,0,2,0,28900000,1.7,1.5,90258776,44728776,1,1,3,11,21,House,2,80
+92,Rural,1,Guilan,Male,41,1,6,Primary,Employed,Married,1,0,0,3,1,18000000,2.2,1.8,112127524,53103164,1,1,4,14,24,House,2,40
+92,Rural,13,Hamedan,Male,37,1,6,Primary,Employed,Married,1,0,0,6,4,264500000,3.7,2.7,68934328,305891328,1,1,4,14,24,House,5,170
+92,Rural,18,Boushehr,Male,61,0,0,Illiterate,Income without Work,Married,0,0,1,5,0,3600000,3.8,3,75900400,38465200,1,1,3,11,25,House,5,110
+92,Rural,7,Fars,Male,29,1,14,University,Unemployed,Married,0,1,0,3,1,40000000,2.2,1.8,88666004,68193164,1,1,3,11,23,Free,3,70
+92,Rural,6,Khouzestan,Male,80,0,0,Illiterate,Income without Work,Married,0,0,1,10,3,148000000,6.7,4.9,188554716,228140716,1,1,4,14,24,House,4,120
+92,Rural,19,Zanjan,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,63000000,2.2,1.8,48135164,91273164,1,1,3,11,23,House,3,80
+92,Rural,26,Qazvin,Male,28,1,11,Secondary,Employed,Married,1,0,0,2,0,42000000,1.7,1.5,34568776,60208776,1,1,4,14,24,Free,2,40
+92,Rural,13,Hamedan,Male,39,1,2,Primary,Employed,Married,1,0,0,4,2,35000000,2.7,2.1,35481552,66697552,NA,1,3,11,21,House,3,80
+92,Rural,24,Ardebil,Male,41,1,9,Secondary,Employed,Married,1,0,0,7,3,207300000,4.6,3.4,182136716,282580716,1,1,3,11,21,House,4,120
+92,Rural,11,Sistan & Baluchistan,Female,43,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,1,52400000,2.2,1.8,90081400,75014900,1,1,3,11,21,House,2,46
+92,Rural,29,South Khorasan,Male,64,1,5,Primary,Income without Work,Married,0,0,1,4,0,90400000,3.1,2.5,144530776,131188776,1,1,3,11,21,House,4,80
+92,Rural,6,Khouzestan,Male,27,1,9,Secondary,Employed,Married,1,0,0,3,1,30330000,2.2,1.8,90852164,69043164,1,1,3,15,25,Free,3,85
+92,Rural,26,Qazvin,Male,35,1,6,Primary,Employed,Married,1,0,0,5,3,78000000,3.2,2.4,143242440,140321940,1,1,3,11,23,House,4,120
+92,Rural,4,West Azerbaijan,Female,52,0,0,Illiterate,Employed,Widowed,1,0,0,5,1,18100000,3.6,2.8,163993940,66771940,1,1,3,11,21,House,3,85
+92,Rural,17,Kohgiluye & Boyerahmad,Male,50,0,0,Illiterate,Employed,Married,1,0,0,2,0,60000000,1.7,1.5,99298776,74908776,1,1,3,13,23,House,3,60
+92,Rural,14,Chaharmahal & Bakhtiari,Male,46,0,0,Illiterate,Employed,Married,1,0,0,5,2,62000000,3.4,2.6,120093559,109747059,1,1,4,14,24,House,3,120
+92,Rural,3,East Azerbaijan,Male,54,1,4,Primary,Employed,Married,1,0,0,4,1,151200000,2.9,2.3,112753552,185297552,1,1,4,14,24,House,2,90
+92,Rural,0,Markazi,Male,72,1,3,Primary,Employed,Married,1,0,0,2,0,14400000,1.7,1.5,101272776,74068776,1,1,3,16,23,House,4,100
+92,Rural,23,Tehran,Female,50,0,0,Illiterate,Housekeeper,Widowed,0,0,0,2,0,36000000,1.7,1.5,83874000,97180000,1,1,4,14,24,House,3,75
+92,Rural,20,Semnan,Male,30,0,0,Illiterate,Employed,Bachelor,1,0,0,1,0,108000000,1,1,69299000,143268000,1,1,3,11,22,ToServe,3,30
+92,Rural,18,Boushehr,Male,55,1,6,Primary,Employed,Married,1,0,0,3,0,212000000,2.4,2,78906768,244497968,1,1,3,11,25,House,3,60
+92,Rural,29,South Khorasan,Female,76,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,52000000,1,1,51195000,68140000,1,1,4,14,24,House,2,30
+92,Rural,19,Zanjan,Male,29,1,12,Secondary,Employed,Married,1,0,0,3,1,99000000,2.2,1.8,106549000,124530000,1,1,4,14,24,Free,2,40
+92,Rural,20,Semnan,Male,26,0,0,Illiterate,Employed,Married,1,0,0,4,2,81000000,2.7,2.1,134416000,8.70E+07,1,1,3,11,23,Free,4,80
+92,Rural,12,Kurdistan,Male,77,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,16000000,2.4,2,120723164,51353164,1,1,3,11,21,House,4,60
+92,Rural,13,Hamedan,Male,28,1,9,Secondary,Employed,Married,1,0,0,3,1,58400000,2.2,1.8,144399400,97970000,1,1,4,14,24,House,2,80
+92,Rural,6,Khouzestan,Male,31,1,6,Primary,Employed,Bachelor,1,0,0,1,0,36000000,1,1,60174000,4.80E+07,1,1,3,15,25,Free,3,40
+92,Rural,2,Mazandaran,Female,74,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,49721400,1,1,43745251,63231400,1,1,4,14,24,House,2,30
+92,Rural,24,Ardebil,Male,33,1,6,Primary,Unemployed,Married,0,1,0,4,2,38200000,2.7,2.1,137557352,76617552,1,1,4,14,24,House,3,81
+92,Rural,4,West Azerbaijan,Male,52,0,0,Illiterate,Employed,Married,1,0,0,4,1,20000000,2.9,2.3,140682052,57497552,1,1,3,11,21,House,3,85
+92,Rural,30,Alborz,Male,27,1,9,Secondary,Employed,Married,1,0,0,3,1,75000000,2.2,1.8,61589000,96885000,1,1,4,14,24,Rental,3,45
+92,Rural,22,Hormozgan,Male,47,1,6,Primary,Employed,Married,1,0,0,7,2,48000000,4.8,3.6,157669000,109505000,1,1,3,20,25,House,3,80
+92,Rural,23,Tehran,Male,40,1,5,Primary,Employed,Married,1,0,0,2,0,72000000,1.7,1.5,96362000,118800000,1,1,4,14,24,Rental,3,60
+92,Rural,28,North Khorasan,Male,40,1,5,Primary,Employed,Married,1,0,0,5,3,105900000,3.2,2.4,115768200,149870000,1,1,4,14,24,House,3,60
+92,Rural,16,Ilam,Male,36,1,12,Secondary,Employed,Married,1,0,0,5,3,57600000,3.2,2.4,71193280,97463280,1,1,3,11,23,House,4,110
+92,Rural,5,Kermanshah,Female,55,0,0,Illiterate,Housekeeper,Married,0,0,0,5,1,23400000,3.6,2.8,153918940,76901940,1,1,3,11,23,House,4,100
+92,Rural,28,North Khorasan,Male,32,1,9,Secondary,Employed,Married,1,0,0,4,2,105000000,2.7,2.1,118141552,132097552,1,1,3,11,23,House,4,90
+92,Rural,5,Kermanshah,Male,48,1,9,Secondary,Employed,Married,1,0,0,6,3,35600000,3.9,2.9,208016128,113508328,1,1,3,11,21,House,4,100
+92,Rural,16,Ilam,Male,47,1,6,Primary,Employed,Married,1,0,0,3,1,91900000,2.2,1.8,64271968,129017968,1,1,4,14,24,House,3,100
+92,Rural,10,Isfahan,Male,78,0,0,Illiterate,Other,Married,0,0,0,2,0,6800000,1.7,1.5,49854000,38880000,1,1,4,14,24,House,7,200
+92,Rural,1,Guilan,Male,65,0,0,Illiterate,Employed,Married,1,0,0,5,0,114200000,3.8,3,116078180,169471940,1,1,4,14,24,House,3,80
+92,Rural,26,Qazvin,Male,59,1,6,Primary,Employed,Married,1,0,0,4,0,137000000,3.1,2.5,124409552,246427552,1,1,3,11,25,House,4,80
+92,Rural,2,Mazandaran,Male,39,1,4,Primary,Employed,Married,1,0,0,3,1,54000000,2.2,1.8,93714500,102132000,1,1,4,14,24,House,3,75
+92,Rural,18,Boushehr,Male,58,0,0,Illiterate,Unemployed,Married,0,1,0,8,4,0,5.1,3.7,122581848,84341248,1,1,4,14,24,House,5,120
+92,Rural,12,Kurdistan,Male,53,0,0,Illiterate,Employed,Married,1,0,0,9,3,158230000,6,4.4,222489764,258733164,1,1,4,14,24,House,4,81
+92,Rural,17,Kohgiluye & Boyerahmad,Male,34,1,9,Secondary,Employed,Married,1,0,0,3,1,10000000,2.2,1.8,94833164,33323164,1,1,4,14,24,House,4,120
+92,Rural,22,Hormozgan,Male,27,1,7,Secondary,Employed,Married,1,0,0,3,1,45000000,2.2,1.8,111747164,88363164,1,1,3,20,25,House,3,80
+92,Rural,28,North Khorasan,Male,74,0,0,Illiterate,Employed,Married,1,0,0,4,0,52680000,3.1,2.5,81517392,87977552,1,1,4,14,24,House,4,60
+92,Rural,8,Kerman,Male,50,0,0,Illiterate,Employed,Married,1,0,0,5,1,49850000,3.6,2.8,100566000,98608000,1,1,3,11,21,House,3,70
+92,Rural,4,West Azerbaijan,Male,28,0,0,Illiterate,Employed,Married,1,0,0,4,2,30000000,2.7,2.1,54837552,72489552,1,1,4,14,24,ToServe,2,80
+92,Rural,16,Ilam,Male,46,0,0,Illiterate,Income without Work,Married,0,0,1,5,2,152000000,3.4,2.6,95808000,1.97E+08,1,1,3,11,23,House,4,110
+92,Rural,16,Ilam,Male,40,1,9,Secondary,Employed,Married,1,0,0,4,2,88600000,2.7,2.1,72765624,124090624,1,1,3,13,23,House,3,100
+92,Rural,20,Semnan,Male,69,0,0,Illiterate,Employed,Married,1,0,0,3,0,45300000,2.4,2,94429164,68023164,1,1,4,14,24,House,4,60
+92,Rural,19,Zanjan,Male,50,0,0,Illiterate,Employed,Married,1,0,0,6,1,58000000,4.3,3.3,123964328,110146328,1,1,4,14,24,House,3,60
+92,Rural,26,Qazvin,Male,30,1,9,Secondary,Employed,Married,1,0,0,3,1,70000000,2.2,1.8,67180164,93713164,1,1,3,11,23,Rental,3,70
+92,Rural,22,Hormozgan,Male,35,1,9,Secondary,Employed,Married,1,0,0,4,2,36000000,2.7,2.1,128314552,76297552,1,1,3,20,25,House,2,60
+92,Rural,18,Boushehr,Male,60,0,0,Illiterate,Unemployed,Married,0,1,0,5,0,96000000,3.8,3,129427680,142163280,1,1,3,11,25,House,4,120
+92,Rural,23,Tehran,Male,29,1,9,Secondary,Employed,Married,1,0,0,3,1,84000000,2.2,1.8,119911000,150420000,1,1,4,14,24,House,4,80
+92,Rural,0,Markazi,Male,47,1,9,Secondary,Employed,Married,1,0,0,3,0,75850000,2.4,2,155783776,104746776,1,1,4,14,24,House,3,100
+92,Rural,10,Isfahan,Male,50,1,4,Primary,Employed,Married,1,0,0,4,0,50000000,3.1,2.5,45820000,88360000,1,1,4,14,24,House,3,60
+92,Rural,16,Ilam,Male,32,1,12,Secondary,Employed,Married,1,0,0,2,0,40000000,1.7,1.5,62661312,61945312,1,1,3,11,23,House,3,70
+92,Rural,4,West Azerbaijan,Male,34,1,6,Primary,Employed,Married,1,0,0,3,1,40000000,2.2,1.8,86890164,68723164,1,1,3,11,23,House,3,100
+92,Rural,22,Hormozgan,Male,44,1,6,Primary,Employed,Married,1,0,0,4,2,100000000,2.7,2.1,133152000,134304000,1,1,3,15,25,House,5,135
+92,Rural,16,Ilam,Male,40,1,14,University,Employed,Married,1,0,0,4,2,96000000,2.7,2.1,81570624,132690624,1,1,3,11,23,House,4,120
+92,Rural,0,Markazi,Male,70,1,6,Primary,Employed,Married,1,0,0,2,0,21500000,1.7,1.5,87571776,42808776,1,1,4,14,24,House,5,81
+92,Rural,28,North Khorasan,Female,39,1,5,Primary,Employed,Widowed,1,0,0,3,1,61900000,2.2,1.8,124154164,83423164,1,1,3,11,21,House,3,80
+92,Rural,28,North Khorasan,Male,37,1,6,Primary,Employed,Married,1,0,0,5,3,30200000,3.2,2.4,113876540,71321940,1,1,3,11,21,House,2,40
+92,Rural,16,Ilam,Male,66,0,0,Illiterate,Income without Work,Married,0,0,1,4,0,72000000,3.1,2.5,70654000,103200000,1,1,3,11,23,House,3,100
+92,Rural,8,Kerman,Male,62,0,0,Illiterate,Employed,Married,1,0,0,4,0,75100000,3.1,2.5,103165552,130425552,1,1,3,11,21,House,3,70
+92,Rural,1,Guilan,Male,74,0,0,Illiterate,Employed,Married,1,0,0,2,0,24050000,1.7,1.5,85927000,44730000,1,1,4,14,24,House,4,70
+92,Rural,1,Guilan,Male,66,0,0,Illiterate,Employed,Married,1,0,0,2,0,22200000,1.7,1.5,104120000,45580000,NA,1,4,14,24,House,3,70
+92,Rural,26,Qazvin,Male,63,0,0,Illiterate,Employed,Married,1,0,0,2,0,148000000,1.7,1.5,90534776,177008776,1,1,4,14,24,House,3,80
+92,Rural,4,West Azerbaijan,Male,38,1,5,Primary,Employed,Married,1,0,0,4,2,8200000,2.7,2.1,120884552,54577552,1,1,3,11,21,House,2,80
+92,Rural,5,Kermanshah,Male,45,1,6,Primary,Employed,Married,1,0,0,5,2,32300000,3.4,2.6,90292340,84571940,1,1,4,14,24,House,3,75
+92,Rural,14,Chaharmahal & Bakhtiari,Male,50,1,9,Secondary,Employed,Married,1,0,0,3,0,114976000,2.4,2,76578776,160117776,1,1,4,14,24,Free,4,120
+92,Rural,8,Kerman,Female,46,1,9,Secondary,Employed,Divorced,1,0,0,3,0,141216000,2.4,2,96335520,186660000,1,1,4,14,24,House,2,100
+92,Rural,0,Markazi,Male,63,0,0,Illiterate,Employed,Married,1,0,0,2,0,175300000,1.7,1.5,114750776,228688776,1,1,4,14,24,House,3,80
+92,Rural,19,Zanjan,Male,41,1,2,Primary,Employed,Married,1,0,0,5,1,71500000,3.6,2.8,144151940,120131940,1,1,3,11,21,House,3,50
+92,Rural,16,Ilam,Male,45,1,5,Primary,Employed,Married,1,0,0,5,3,12300000,3.2,2.4,83262280,53363280,1,1,3,11,23,House,4,132
+92,Rural,16,Ilam,Male,36,1,16,University,Employed,Married,1,0,0,4,2,72000000,2.7,2.1,76979624,107490624,1,1,3,11,23,House,3,90
+92,Rural,16,Ilam,Male,38,1,9,Secondary,Employed,Married,1,0,0,3,1,38700000,2.2,1.8,68944968,90397968,1,1,3,11,23,House,3,90
+92,Rural,3,East Azerbaijan,Male,40,1,6,Primary,Employed,Married,1,0,0,4,2,57600000,2.7,2.1,106042290,113374288,1,1,3,11,21,House,2,50
+92,Rural,7,Fars,Male,55,1,5,Primary,Employed,Married,1,0,0,2,0,54000000,1.7,1.5,54285776,77152776,1,1,4,14,24,House,2,50
+92,Rural,7,Fars,Male,51,0,0,Illiterate,Employed,Married,1,0,0,4,1,16000000,2.9,2.3,76877552,59679552,1,1,3,11,23,House,4,120
+92,Rural,10,Isfahan,Male,61,1,6,Primary,Employed,Married,1,0,0,4,0,75250000,3.1,2.5,117613552,120067552,1,1,4,14,24,House,3,150
+92,Rural,12,Kurdistan,Male,75,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,26000000,2.4,2,133345164,72373164,1,1,3,11,23,House,4,100
+92,Rural,19,Zanjan,Male,39,1,6,Primary,Employed,Married,1,0,0,5,3,26500000,3.2,2.4,91395940,72131940,1,1,3,11,23,House,2,70
+92,Rural,22,Hormozgan,Male,50,1,8,Secondary,Employed,Married,1,0,0,5,2,60000000,3.4,2.6,176725000,96880000,1,1,3,15,25,House,5,95
+92,Rural,0,Markazi,Male,60,1,6,Primary,Other,Married,0,0,0,6,0,59300000,4.5,3.5,205612000,111220000,1,1,3,13,23,House,3,80
+92,Rural,14,Chaharmahal & Bakhtiari,Male,22,1,9,Secondary,Employed,Married,1,0,0,2,0,35000000,1.7,1.5,94910776,61428776,1,1,4,14,24,House,3,150
+92,Rural,3,East Azerbaijan,Male,27,1,4,Primary,Employed,Married,1,0,0,3,1,21000000,2.2,1.8,67253164,51073164,NA,1,3,11,21,House,3,60
+92,Rural,12,Kurdistan,Male,44,1,4,Primary,Employed,Married,1,0,0,2,0,45000000,1.7,1.5,101628964,100003164,1,1,3,11,21,Free,5,200
+92,Rural,0,Markazi,Male,73,0,0,Illiterate,Employed,Married,1,0,0,2,0,8400000,1.7,1.5,92458776,31888776,1,1,4,14,24,House,4,100
+92,Rural,3,East Azerbaijan,Male,60,0,0,Illiterate,Employed,Married,1,0,0,3,0,40320000,2.4,2,97022844,69793164,1,1,4,14,24,House,4,170
+92,Rural,8,Kerman,Male,40,1,8,Secondary,Employed,Married,1,0,0,6,4,58374400,3.7,2.7,131020400,122982400,1,1,4,14,24,House,3,180
+92,Rural,6,Khouzestan,Male,49,0,0,Illiterate,Employed,Married,1,0,0,7,1,183000000,5,3.8,170650000,260930000,1,1,4,11,25,House,5,120
+92,Rural,17,Kohgiluye & Boyerahmad,Male,39,1,5,Primary,Employed,Married,1,0,0,7,5,37000000,4.2,3,159116716,99670716,1,NA,3,16,26,House,2,60
+92,Rural,12,Kurdistan,Male,41,1,9,Secondary,Employed,Married,1,0,0,4,2,72000000,2.7,2.1,94565352,107937552,1,1,4,14,24,House,4,90
+92,Rural,13,Hamedan,Male,78,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,20000000,1.7,1.5,21285776,41032776,1,1,4,14,24,House,3,60
+92,Rural,1,Guilan,Male,41,1,9,Secondary,Employed,Married,1,0,0,5,2,107980000,3.4,2.6,114214520,166390400,1,1,4,14,24,House,5,110
+92,Rural,8,Kerman,Male,64,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,200000000,1.7,1.5,85996000,232720000,1,1,4,14,24,House,3,190
+92,Rural,30,Alborz,Male,28,1,9,Secondary,Employed,Married,1,0,0,2,0,72000000,1.7,1.5,74488000,97200000,1,1,4,14,24,Bonded,4,80
+92,Rural,29,South Khorasan,Female,47,0,0,Illiterate,Income without Work,Married,0,0,1,6,3,165000000,3.9,2.9,160096328,215174328,1,1,3,11,23,House,4,100
+92,Rural,24,Ardebil,Male,46,1,6,Primary,Employed,Married,1,0,0,4,1,248800000,2.9,2.3,111358552,322489552,1,1,4,14,24,House,3,100
+92,Rural,3,East Azerbaijan,Female,68,0,0,Illiterate,Income without Work,Widowed,0,0,1,6,1,72048000,4.3,3.3,106343164,162643164,1,1,3,11,21,Free,5,120
+92,Rural,11,Sistan & Baluchistan,Male,18,1,9,Secondary,Employed,Married,1,0,0,1,0,28800000,1,1,68790388,40024388,1,1,3,15,23,Free,1,16
+92,Rural,17,Kohgiluye & Boyerahmad,Male,44,1,1,Primary,Employed,Married,1,0,0,6,3,36250000,3.9,2.9,117468328,93036328,1,1,3,16,26,House,3,75
+92,Rural,19,Zanjan,Male,70,0,0,Illiterate,Employed,Married,1,0,0,3,1,39600000,2.2,1.8,134404164,67273164,1,1,1,11,21,House,2,35
+92,Rural,22,Hormozgan,Female,36,1,4,Primary,Income without Work,Widowed,0,0,1,3,1,30000000,2.2,1.8,122891000,66645000,1,1,3,20,25,House,3,80
+92,Rural,0,Markazi,Male,65,0,0,Illiterate,Employed,Married,1,0,0,2,0,39950000,1.7,1.5,51033776,68702776,1,1,4,14,24,House,2,40
+92,Rural,9,Razavi Khorasan,Male,29,1,5,Primary,Employed,Married,1,0,0,3,1,43544000,2.2,1.8,72612180,77859000,1,1,4,14,24,House,3,75
+92,Rural,9,Razavi Khorasan,Male,75,0,0,Illiterate,Other,Married,0,0,0,2,0,10000000,1.7,1.5,105770000,75080000,1,1,3,11,23,House,2,100
+92,Rural,9,Razavi Khorasan,Male,51,0,0,Illiterate,Employed,Married,1,0,0,4,2,40000000,2.7,2.1,124445552,77105552,1,1,4,14,24,House,6,100
+92,Rural,24,Ardebil,Male,33,1,6,Primary,Employed,Married,1,0,0,5,2,53300000,3.4,2.6,90703940,111391940,1,1,3,11,23,House,4,100
+92,Rural,7,Fars,Male,63,0,0,Illiterate,Employed,Married,1,0,0,3,0,15100000,2.4,2,114234388,84184388,1,1,3,11,23,House,4,150
+92,Rural,22,Hormozgan,Male,47,1,9,Secondary,Employed,Married,1,0,0,6,2,44000000,4.1,3.1,149394000,85136000,1,1,3,15,25,House,5,125
+92,Rural,1,Guilan,Male,47,1,8,Secondary,Income without Work,Married,0,0,1,3,0,90420000,2.4,2,92364800,140671520,NA,1,4,14,24,House,4,80
+92,Rural,18,Boushehr,Male,47,1,5,Primary,Employed,Married,1,0,0,6,0,72000000,4.5,3.5,104882736,124995936,1,1,3,11,23,House,3,100
+92,Rural,26,Qazvin,Male,41,1,12,Secondary,Employed,Married,1,0,0,6,4,71500000,3.7,2.7,111291328,134326328,1,1,4,14,24,House,3,80
+92,Rural,5,Kermanshah,Male,36,1,9,Secondary,Employed,Married,1,0,0,5,3,42000000,3.2,2.4,104927140,104121940,1,1,4,14,24,Bonded,3,50
+92,Rural,17,Kohgiluye & Boyerahmad,Male,61,0,0,Illiterate,Employed,Married,1,0,0,8,0,122000000,5.9,4.5,141580104,194835104,1,1,3,11,21,House,5,115
+92,Rural,22,Hormozgan,Male,27,1,9,Secondary,Employed,Married,1,0,0,2,0,3000000,1.7,1.5,93170000,39430000,1,1,3,20,25,House,4,120
+92,Rural,24,Ardebil,Male,79,1,1,Primary,Employed,Married,1,0,0,2,0,24250000,1.7,1.5,120212776,50558776,1,1,3,17,27,House,3,100
+92,Rural,16,Ilam,Male,46,1,6,Primary,Employed,Married,1,0,0,5,2,140300000,3.4,2.6,106736280,217843280,1,1,3,11,23,House,4,110
+92,Rural,6,Khouzestan,Male,39,1,6,Primary,Employed,Married,1,0,0,9,5,72600000,5.6,4,260313492,165219492,1,1,4,14,25,House,6,176
+92,Rural,28,North Khorasan,Male,31,1,12,Secondary,Employed,Married,1,0,0,2,0,54000000,1.7,1.5,58991000,86940000,1,1,3,11,21,ToServe,3,55
+92,Rural,20,Semnan,Male,73,1,6,Primary,Income without Work,Married,0,0,1,1,0,61625000,1,1,28233000,79885000,1,1,4,14,24,Free,4,95
+92,Rural,29,South Khorasan,Male,51,1,3,Primary,Employed,Married,1,0,0,2,0,76000000,1.7,1.5,134369776,103166776,1,1,3,11,23,House,4,80
+92,Rural,16,Ilam,Male,42,1,5,Primary,Employed,Married,1,0,0,5,3,72000000,3.2,2.4,108458000,122760000,1,1,3,11,23,House,3,100
+92,Rural,10,Isfahan,Male,38,1,6,Primary,Employed,Divorced,1,0,0,1,0,30000000,1,1,115957200,36590000,1,1,4,14,24,Rental,3,60
+92,Rural,20,Semnan,Male,26,1,9,Secondary,Income without Work,Married,0,0,1,4,2,10000000,2.7,2.1,147913552,41977552,1,1,4,14,24,House,3,85
+92,Rural,29,South Khorasan,Male,48,1,6,Primary,Employed,Married,1,0,0,4,1,94000000,2.9,2.3,170355552,135617552,1,1,3,11,23,House,4,100
+92,Rural,22,Hormozgan,Male,38,1,6,Primary,Employed,Married,1,0,0,4,2,42000000,2.7,2.1,143109552,94297552,1,1,3,20,30,House,3,100
+92,Rural,5,Kermanshah,Female,38,0,0,Illiterate,Income without Work,Married,0,0,1,3,2,42000000,2,1.6,70294164,83103164,1,1,4,14,24,House,3,104
+92,Rural,13,Hamedan,Male,63,0,0,Illiterate,Employed,Married,1,0,0,5,1,28700000,3.6,2.8,28116940,67541940,1,1,3,11,21,House,3,80
+92,Rural,24,Ardebil,Male,64,0,0,Illiterate,Employed,Married,1,0,0,2,0,17000000,1.7,1.5,106857776,70908776,1,1,4,14,24,House,3,80
+92,Rural,0,Markazi,Male,33,1,4,Primary,Employed,Married,1,0,0,4,2,34600000,2.7,2.1,61941552,67957552,1,1,4,14,24,House,3,120
+92,Rural,4,West Azerbaijan,Male,40,1,5,Primary,Employed,Married,1,0,0,3,0,320000000,2.4,2,105552764,354123164,NA,NA,3,11,21,House,1,40
+92,Rural,6,Khouzestan,Male,31,1,6,Primary,Employed,Married,1,0,0,4,2,72000000,2.7,2.1,119061552,108927552,1,1,4,14,24,House,2,30
+92,Rural,29,South Khorasan,Male,25,1,12,Secondary,Employed,Married,1,0,0,3,1,48000000,2.2,1.8,89556164,76963164,1,1,3,11,23,House,3,80
+92,Rural,1,Guilan,Male,25,1,9,Secondary,Employed,Married,1,0,0,3,1,31000000,2.2,1.8,40835844,53193164,NA,1,3,11,30,House,1,25
+92,Rural,26,Qazvin,Male,36,1,9,Secondary,Employed,Married,1,0,0,5,3,56834098,3.2,2.4,105813140,118098635,1,1,4,14,24,House,2,65
+92,Rural,19,Zanjan,Male,58,1,5,Primary,Employed,Married,1,0,0,6,1,61550000,4.3,3.3,148984128,124296328,1,1,3,11,21,House,2,60
+92,Rural,23,Tehran,Male,48,0,0,Illiterate,Employed,Married,1,0,0,5,2,108000000,3.4,2.6,147635400,1.44E+08,1,1,4,14,24,Rental,4,90
+92,Rural,16,Ilam,Male,38,1,9,Secondary,Unemployed,Married,0,1,0,5,3,72000000,3.2,2.4,90935000,119400000,1,1,4,14,24,House,4,120
+92,Rural,30,Alborz,Male,52,1,5,Primary,Employed,Married,1,0,0,4,0,55000000,3.1,2.5,173010000,125840000,1,1,4,14,24,House,3,100
+92,Rural,29,South Khorasan,Male,58,0,0,Illiterate,Employed,Married,1,0,0,2,0,78500000,1.7,1.5,117454776,131408776,1,1,3,11,23,House,4,80
+92,Rural,3,East Azerbaijan,Male,23,1,6,Primary,Employed,Married,1,0,0,3,1,62500000,2.2,1.8,95863001,110950000,1,1,3,11,21,Rental,2,40
+92,Rural,11,Sistan & Baluchistan,Male,43,1,9,Secondary,Unemployed,Married,0,1,0,8,6,14800000,4.7,3.3,169797204,71229704,1,1,3,11,21,House,3,64
+92,Rural,19,Zanjan,Male,35,1,6,Primary,Employed,Married,1,0,0,7,2,50000000,4.8,3.6,265572716,106970716,1,1,4,14,24,Free,6,250
+92,Rural,25,Qom,Male,45,1,6,Primary,Employed,Married,1,0,0,5,1,72000000,3.6,2.8,115511940,122321940,1,1,4,14,24,House,4,140
+92,Rural,11,Sistan & Baluchistan,Male,36,1,12,Secondary,Employed,Married,1,0,0,6,4,91641000,3.7,2.7,110617236,161164636,NA,1,3,11,23,House,4,100
+92,Rural,20,Semnan,Male,30,1,6,Primary,Employed,Married,1,0,0,3,1,42539992,2.2,1.8,71262996,82979990,1,1,4,14,24,Free,3,30
+92,Rural,5,Kermanshah,Female,50,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,2,23500000,2,1.6,114777500,55270000,1,1,4,14,24,House,3,50
+92,Rural,16,Ilam,Male,52,0,0,Illiterate,Employed,Married,1,0,0,4,2,76300000,2.7,2.1,90303624,117790624,1,1,4,14,24,House,4,110
+92,Rural,26,Qazvin,Male,84,0,0,Illiterate,Employed,Married,1,0,0,2,0,85200000,1.7,1.5,106357776,158848776,1,1,3,11,25,House,3,80
+92,Rural,6,Khouzestan,Male,37,0,0,Illiterate,Employed,Married,1,0,0,5,3,85100000,3.2,2.4,155227000,138450000,1,1,3,15,25,Free,2,20
+92,Rural,17,Kohgiluye & Boyerahmad,Male,62,0,0,Illiterate,Employed,Married,1,0,0,2,0,44300000,1.7,1.5,104318776,70632776,1,1,3,11,21,House,4,112
+92,Rural,30,Alborz,Male,27,1,12,Secondary,Employed,Married,1,0,0,3,1,120000000,2.2,1.8,140737000,164130000,1,1,4,14,24,Bonded,3,85
+92,Rural,19,Zanjan,Male,55,0,0,Illiterate,Employed,Married,1,0,0,3,1,21900000,2.2,1.8,111849164,48973164,1,1,3,11,21,House,2,75
+92,Rural,5,Kermanshah,Male,62,0,0,Illiterate,Employed,Married,1,0,0,3,0,76900000,2.4,2,76981164,109013164,1,1,4,14,24,House,3,50
+92,Rural,14,Chaharmahal & Bakhtiari,Male,34,1,6,Primary,Employed,Married,1,0,0,4,2,60000000,2.7,2.1,100179052,95317552,1,1,4,14,24,House,3,75
+92,Rural,29,South Khorasan,Male,50,1,2,Primary,Employed,Married,1,0,0,3,1,27000000,2.2,1.8,71088164,61741164,1,1,3,11,21,House,6,100
+92,Rural,3,East Azerbaijan,Male,76,0,0,Illiterate,Employed,Married,1,0,0,2,0,105350000,1.7,1.5,130778776,153958776,1,1,4,14,24,House,3,60
+92,Rural,4,West Azerbaijan,Male,46,1,6,Primary,Employed,Married,1,0,0,4,0,105300000,3.1,2.5,193671164,191343164,1,1,4,14,24,Free,3,92
+92,Rural,8,Kerman,Male,29,1,6,Primary,Employed,Married,1,0,0,3,1,57200000,2.2,1.8,45366164,83223164,1,1,3,11,23,House,3,90
+92,Rural,19,Zanjan,Male,54,1,6,Primary,Employed,Married,1,0,0,2,0,33000000,1.7,1.5,81253000,62300000,1,1,4,14,24,House,4,180
+92,Rural,18,Boushehr,Male,29,1,12,Secondary,Employed,Married,1,0,0,4,2,115600000,2.7,2.1,90765400,173932000,1,1,3,11,25,House,5,120
+92,Rural,28,North Khorasan,Male,70,0,0,Illiterate,Employed,Married,1,0,0,3,0,168500000,2.4,2,184391164,250113164,1,1,4,14,24,House,2,35
+92,Rural,5,Kermanshah,Male,48,1,6,Primary,Employed,Married,1,0,0,4,1,159400000,2.9,2.3,172861152,194617552,1,1,4,14,24,House,3,60
+92,Rural,19,Zanjan,Male,53,0,0,Illiterate,Employed,Married,1,0,0,4,0,79250000,3.1,2.5,163441052,124587552,1,1,3,11,21,House,3,70
+92,Rural,2,Mazandaran,Male,44,1,9,Secondary,Employed,Married,1,0,0,5,3,127850000,3.2,2.4,161087740,175511940,1,1,3,11,23,House,4,70
+92,Rural,17,Kohgiluye & Boyerahmad,Male,36,1,9,Secondary,Employed,Married,1,0,0,4,2,60000000,2.7,2.1,160635552,99377552,1,1,3,16,26,Free,2,40
+92,Rural,16,Ilam,Male,53,1,5,Primary,Employed,Married,1,0,0,7,4,28000000,4.4,3.2,130396592,119868592,1,1,3,11,23,House,4,110
+92,Rural,2,Mazandaran,Male,27,1,6,Primary,Employed,Married,1,0,0,2,0,65000000,1.7,1.5,111363776,95848776,1,1,4,14,24,House,3,90
+92,Rural,6,Khouzestan,Male,50,0,0,Illiterate,Employed,Married,1,0,0,11,5,51240000,7,5,178648268,134788268,1,1,3,15,25,House,6,150
+92,Rural,2,Mazandaran,Male,71,1,3,Primary,Income without Work,Married,0,0,1,2,0,42500000,1.7,1.5,113281976,85132776,1,1,4,14,24,House,5,83
+92,Rural,2,Mazandaran,Male,45,1,5,Primary,Employed,Married,1,0,0,3,0,64700000,2.4,2,111507164,124665164,1,1,4,14,24,House,5,98
+92,Rural,0,Markazi,Male,60,0,0,Illiterate,Employed,Married,1,0,0,3,0,58080000,2.4,2,120400164,102063164,1,1,4,14,24,House,4,90
+92,Rural,29,South Khorasan,Male,58,1,6,Primary,Employed,Married,1,0,0,3,0,98400000,2.4,2,144467364,125923164,1,1,3,11,23,House,4,130
+92,Rural,5,Kermanshah,Male,58,0,0,Illiterate,Employed,Married,1,0,0,4,2,12950000,2.7,2.1,164997152,127705552,1,1,3,11,23,House,4,100
+92,Rural,18,Boushehr,Female,79,0,0,Illiterate,Income without Work,Widowed,0,0,1,3,0,4200000,2.4,2,68927368,30697968,1,1,3,11,25,House,4,120
+92,Rural,9,Razavi Khorasan,Male,50,1,6,Primary,Employed,Married,1,0,0,6,3,25600000,3.9,2.9,187403380,109241880,1,1,3,11,21,House,4,100
+92,Rural,11,Sistan & Baluchistan,Male,54,1,4,Primary,Employed,Married,1,0,0,4,1,110925000,2.9,2.3,134574776,173827776,1,1,3,11,23,House,3,80
+92,Rural,15,Lorestan,Male,78,0,0,Illiterate,Income without Work,Widowed,0,0,1,2,0,34800000,1.7,1.5,73060000,53875000,1,1,3,11,21,House,4,100
+92,Rural,1,Guilan,Male,38,1,12,Secondary,Employed,Married,1,0,0,4,2,85640000,2.7,2.1,107349800,144250000,1,1,4,14,24,House,3,90
+92,Rural,4,West Azerbaijan,Male,46,0,0,Illiterate,Employed,Married,1,0,0,6,3,63480000,3.9,2.9,207778828,125666328,1,1,3,11,21,House,4,150
+92,Rural,0,Markazi,Male,32,1,6,Primary,Employed,Married,1,0,0,3,1,22390000,2.2,1.8,35092164,48077164,1,1,4,14,24,Rental,3,100
+92,Rural,2,Mazandaran,Male,65,0,0,Illiterate,Other,Married,0,0,0,6,1,80000000,4.3,3.3,182415128,137736328,1,1,3,11,30,House,3,67
+92,Rural,28,North Khorasan,Male,48,1,6,Primary,Employed,Married,1,0,0,5,2,42500000,3.4,2.6,118386920,97186000,1,1,4,14,24,House,3,120
+92,Rural,1,Guilan,Male,47,1,6,Primary,Employed,Married,1,0,0,4,1,145900000,2.9,2.3,161705152,179917552,NA,1,4,14,24,House,4,100
+92,Rural,8,Kerman,Male,38,1,6,Primary,Employed,Married,1,0,0,4,2,80000000,2.7,2.1,95817552,114985552,1,1,3,11,23,House,4,100
+92,Rural,17,Kohgiluye & Boyerahmad,Male,50,0,0,Illiterate,Employed,Married,1,0,0,5,2,90000000,3.4,2.6,135449940,125171940,1,1,3,13,23,House,4,120
+92,Rural,15,Lorestan,Male,78,0,0,Illiterate,Employed,Married,1,0,0,2,0,12700000,1.7,1.5,113268776,32028776,1,1,3,11,21,House,4,100
+92,Rural,23,Tehran,Male,40,1,9,Secondary,Employed,Married,1,0,0,4,2,66153333,2.7,2.1,91098944,124340278,1,1,4,14,24,House,3,80
+92,Rural,5,Kermanshah,Male,53,1,9,Secondary,Other,Married,0,0,0,5,0,6000000,3.8,3,61696940,63521940,1,1,4,14,24,House,3,75
+92,Rural,22,Hormozgan,Male,27,1,6,Primary,Employed,Married,1,0,0,3,1,87780000,2.2,1.8,90692680,124560000,1,1,3,13,23,House,3,80
+92,Rural,1,Guilan,Male,75,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,42400000,1.7,1.5,120091108,93194388,1,1,4,14,24,House,3,40
+92,Rural,26,Qazvin,Male,38,1,9,Secondary,Employed,Married,1,0,0,4,2,78000000,2.7,2.1,123773006,111560000,1,1,3,11,21,House,3,80
+92,Rural,9,Razavi Khorasan,Male,45,0,0,Illiterate,Employed,Married,1,0,0,6,2,51000000,4.1,3.1,74405716,110950716,1,1,4,14,24,House,2,50
+92,Rural,4,West Azerbaijan,Male,82,0,0,Illiterate,Employed,Married,1,0,0,2,0,534200000,1.7,1.5,117735856,560628776,1,1,3,11,21,House,4,140
+92,Rural,29,South Khorasan,Male,50,1,3,Primary,Employed,Married,1,0,0,6,2,43000000,4.1,3.1,162013328,139044328,1,1,3,11,21,House,3,70
+92,Rural,18,Boushehr,Male,60,1,5,Primary,Employed,Married,1,0,0,8,0,224000000,5.9,4.5,189508592,289288592,1,1,3,11,25,House,4,150
+92,Rural,8,Kerman,Male,41,1,6,Primary,Employed,Married,1,0,0,5,3,22300000,3.2,2.4,116046940,70621940,1,1,3,11,21,House,2,40
+92,Rural,3,East Azerbaijan,Male,42,1,6,Primary,Employed,Married,1,0,0,4,2,54760000,2.7,2.1,100144000,94640000,1,1,4,14,24,House,2,80
+92,Rural,15,Lorestan,Male,40,1,5,Primary,Employed,Married,1,0,0,3,1,48184000,2.2,1.8,104858000,87346000,1,1,3,11,21,Free,2,40
+92,Rural,4,West Azerbaijan,Male,60,0,0,Illiterate,Employed,Married,1,0,0,6,2,47800000,4.1,3.1,102221000,91360000,NA,NA,3,11,21,House,2,80
+92,Rural,28,North Khorasan,Female,74,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,71500000,1,1,63798400,85960000,1,1,3,11,21,Free,3,55
+92,Rural,9,Razavi Khorasan,Male,39,1,6,Primary,Employed,Married,1,0,0,5,3,66000000,3.2,2.4,130615100,140573100,1,1,3,13,23,Free,3,100
+92,Rural,7,Fars,Male,44,1,9,Secondary,Employed,Married,1,0,0,5,3,50000000,3.2,2.4,173826740,106271940,1,1,4,14,24,Free,3,70
+92,Rural,4,West Azerbaijan,Male,29,1,12,Secondary,Employed,Married,1,0,0,3,1,20000000,2.2,1.8,96715164,57483164,1,1,3,11,21,Rental,2,60
+92,Rural,19,Zanjan,Male,59,0,0,Illiterate,Employed,Married,1,0,0,4,0,16750000,3.1,2.5,192191552,57447552,1,1,4,14,24,House,3,150
+92,Rural,22,Hormozgan,Male,44,1,9,Secondary,Employed,Married,1,0,0,6,3,69800000,3.9,2.9,155111000,132056000,1,1,3,15,25,House,5,125
+92,Rural,3,East Azerbaijan,Male,48,1,6,Primary,Employed,Married,1,0,0,5,3,29850000,3.2,2.4,90801940,68931940,1,1,4,14,24,House,2,80
+92,Rural,12,Kurdistan,Male,36,1,12,Secondary,Employed,Married,1,0,0,3,1,71150000,2.2,1.8,142897264,98463164,1,1,4,14,24,House,3,70
+92,Rural,17,Kohgiluye & Boyerahmad,Male,50,1,6,Primary,Income without Work,Bachelor,0,0,1,1,0,115000000,1,1,72219000,127740000,1,1,4,14,24,House,2,40
+92,Rural,7,Fars,Male,39,1,9,Secondary,Employed,Married,1,0,0,4,2,52400000,2.7,2.1,228011940,100711940,1,1,3,11,23,House,4,140
+92,Rural,16,Ilam,Male,42,1,14,University,Unemployed,Married,0,1,0,4,2,0,2.7,2.1,86509000,39600000,1,1,4,14,24,House,4,110
+92,Rural,25,Qom,Male,71,0,0,Illiterate,Employed,Married,1,0,0,2,0,100000000,1.7,1.5,101102000,130700000,1,1,4,14,24,House,3,110
+92,Rural,13,Hamedan,Male,50,1,6,Primary,Employed,Married,1,0,0,4,0,40000000,3.1,2.5,105497552,71697552,1,1,4,14,24,House,3,80
+92,Rural,9,Razavi Khorasan,Male,40,1,6,Primary,Employed,Married,1,0,0,3,1,63000000,2.2,1.8,134722364,106963164,1,1,4,14,24,House,3,100
+92,Rural,2,Mazandaran,Male,33,1,11,Secondary,Employed,Married,1,0,0,3,1,54375920,2.2,1.8,127800500,98069720,NA,1,4,14,24,House,5,100
+92,Rural,4,West Azerbaijan,Male,72,0,0,Illiterate,Other,Married,0,0,0,9,2,64000000,6.2,4.6,139664716,135540716,1,1,3,11,21,House,2,90
+92,Rural,10,Isfahan,Male,34,1,6,Primary,Employed,Married,1,0,0,4,2,71360000,2.7,2.1,84611000,111310000,1,1,4,14,24,Rental,5,120
+92,Rural,10,Isfahan,Male,59,0,0,Illiterate,Employed,Married,1,0,0,7,2,49000000,4.8,3.6,141381716,108650716,1,1,4,14,24,House,3,100
+92,Rural,26,Qazvin,Male,78,1,3,Primary,Employed,Married,1,0,0,2,0,106500000,1.7,1.5,123950376,198148776,1,1,3,11,25,House,4,100
+92,Rural,0,Markazi,Male,39,1,9,Secondary,Employed,Married,1,0,0,2,0,48250000,1.7,1.5,100525776,84038776,1,1,4,14,24,House,4,120
+92,Rural,28,North Khorasan,Female,36,1,4,Primary,Employed,Married,1,0,0,2,1,82000000,1.5,1.3,47757776,116458776,1,1,4,14,24,House,3,60
+92,Rural,9,Razavi Khorasan,Male,64,0,0,Illiterate,Employed,Married,1,0,0,7,2,32800000,4.8,3.6,213993016,103730716,1,1,4,14,24,House,3,90
+92,Rural,29,South Khorasan,Male,44,1,4,Primary,Employed,Married,1,0,0,4,2,60000000,2.7,2.1,146912600,98238000,NA,1,3,11,23,House,4,100
+92,Rural,3,East Azerbaijan,Male,43,1,6,Primary,Employed,Married,1,0,0,5,2,24350000,3.4,2.6,184577940,93671940,1,1,4,14,24,House,3,100
+92,Rural,8,Kerman,Male,46,1,9,Secondary,Employed,Married,1,0,0,5,2,51480000,3.4,2.6,96003784,112700000,1,1,4,14,24,House,3,150
+92,Rural,8,Kerman,Male,39,1,6,Primary,Employed,Married,1,0,0,5,3,100026400,3.2,2.4,138077200,162510400,1,1,3,11,25,House,3,120
+92,Rural,6,Khouzestan,Male,32,1,4,Primary,Employed,Married,1,0,0,5,3,47200000,3.2,2.4,179519940,94401940,1,1,3,15,25,Free,2,30
+92,Rural,18,Boushehr,Male,30,1,12,Secondary,Employed,Married,1,0,0,4,2,114800000,2.7,2.1,100561000,174788000,1,1,3,11,25,House,4,100
+92,Rural,28,North Khorasan,Male,29,1,9,Secondary,Employed,Married,1,0,0,4,2,98600000,2.7,2.1,125631552,127267552,1,1,3,11,21,Free,3,60
+92,Rural,18,Boushehr,Male,53,1,5,Primary,Employed,Married,1,0,0,6,0,200000000,4.5,3.5,138671736,258995936,1,1,3,11,25,House,4,140
+92,Rural,22,Hormozgan,Male,32,1,6,Primary,Employed,Married,1,0,0,3,1,100320000,2.2,1.8,93060680,138780000,1,1,3,15,23,House,2,75
+92,Rural,9,Razavi Khorasan,Male,25,1,9,Secondary,Employed,Married,1,0,0,3,1,48000000,2.2,1.8,87582404,80113164,1,1,4,14,24,House,3,100
+92,Rural,8,Kerman,Male,61,1,3,Primary,Employed,Married,1,0,0,3,0,39680000,2.4,2,103980000,74960000,1,1,4,14,24,House,2,110
+92,Rural,7,Fars,Male,33,1,8,Secondary,Employed,Married,1,0,0,4,2,70000000,2.7,2.1,100183964,109025164,1,1,3,11,23,Free,2,50
+92,Rural,16,Ilam,Male,44,1,14,University,Employed,Married,1,0,0,4,2,120000000,2.7,2.1,85062624,162690624,1,1,3,11,23,House,4,110
+92,Rural,25,Qom,Male,50,0,0,Illiterate,Employed,Married,1,0,0,2,0,70000000,1.7,1.5,118168776,101408776,1,1,4,14,24,House,4,120
+92,Rural,28,North Khorasan,Male,34,1,3,Primary,Employed,Married,1,0,0,6,4,53000000,3.7,2.7,128999140,103551940,1,1,4,14,24,House,4,100
+92,Rural,15,Lorestan,Male,62,0,0,Illiterate,Employed,Married,1,0,0,4,2,20000000,2.7,2.1,146181552,64897552,1,1,4,14,24,House,4,120
+92,Rural,24,Ardebil,Male,56,0,0,Illiterate,Income without Work,Married,0,0,1,7,1,52420000,5,3.8,98759716,128840716,1,1,4,14,24,House,4,93
+92,Rural,19,Zanjan,Male,40,1,6,Primary,Employed,Married,1,0,0,4,2,92750000,2.7,2.1,104183552,129607552,1,1,4,14,24,House,3,80
+92,Rural,22,Hormozgan,Male,34,1,8,Secondary,Unemployed,Married,0,1,0,4,2,42000000,2.7,2.1,115509552,79897552,1,1,3,15,25,House,4,95
+92,Rural,22,Hormozgan,Male,53,0,0,Illiterate,Income without Work,Widowed,0,0,1,1,0,4000000,1,1,92622000,21460000,NA,1,3,20,23,House,2,80
+92,Rural,20,Semnan,Female,46,1,6,Primary,Income without Work,Married,0,0,1,2,1,27000000,1.5,1.3,171947388,45634388,1,1,4,14,24,House,4,100
+92,Rural,2,Mazandaran,Male,37,1,5,Primary,Employed,Married,1,0,0,4,2,75032652,2.7,2.1,96014910,141940552,1,1,4,14,24,House,4,100
+92,Rural,8,Kerman,Male,35,1,12,Secondary,Employed,Married,1,0,0,3,1,40000000,2.2,1.8,122555164,69593164,1,1,3,11,21,House,3,60
+92,Rural,10,Isfahan,Female,69,0,0,Illiterate,Employed,Widowed,1,0,0,1,0,9300000,1,1,115339188,22004388,1,1,4,14,24,Free,4,90
+92,Rural,17,Kohgiluye & Boyerahmad,Male,29,1,16,University,Employed,Married,1,0,0,3,1,16950000,2.2,1.8,83857164,46633164,1,1,6,16,26,Free,2,35
+92,Rural,14,Chaharmahal & Bakhtiari,Female,51,1,4,Primary,Income without Work,Widowed,0,0,1,2,0,48400000,1.7,1.5,96663716,91845716,1,1,4,14,24,House,3,100
+92,Rural,19,Zanjan,Male,62,0,0,Illiterate,Employed,Married,1,0,0,4,1,90000000,2.9,2.3,158958552,165497552,1,1,3,11,23,House,5,100
+92,Rural,1,Guilan,Male,31,1,6,Primary,Employed,Married,1,0,0,3,1,62919600,2.2,1.8,100157040,110004600,NA,1,4,14,24,House,4,69
+92,Rural,5,Kermanshah,Male,42,1,9,Secondary,Employed,Married,1,0,0,3,1,36000000,2.2,1.8,131489364,84913164,1,1,4,14,24,Bonded,3,100
+92,Rural,25,Qom,Male,48,1,5,Primary,Employed,Married,1,0,0,5,2,80000000,3.4,2.6,118973940,131521940,1,1,4,14,24,House,3,120
+92,Rural,24,Ardebil,Male,31,1,9,Secondary,Employed,Married,1,0,0,5,2,97400000,3.4,2.6,197322940,151541940,1,1,4,14,24,House,4,150
+92,Rural,6,Khouzestan,Male,26,1,4,Primary,Employed,Married,1,0,0,3,1,39200000,2.2,1.8,130629164,64473164,1,1,3,15,25,Free,2,20
+92,Rural,29,South Khorasan,Male,38,1,6,Primary,Employed,Married,1,0,0,5,3,102000000,3.2,2.4,166922106,158723068,1,1,4,14,24,House,4,50
+92,Rural,26,Qazvin,Male,33,1,12,Secondary,Employed,Married,1,0,0,4,2,72629557,2.7,2.1,80715417,125520060,1,1,4,14,24,House,3,64
+92,Rural,25,Qom,Male,26,1,8,Secondary,Employed,Married,1,0,0,3,1,60000000,2.2,1.8,86725400,91770000,1,1,4,14,24,House,3,100
+92,Rural,26,Qazvin,Male,43,1,3,Primary,Employed,Married,1,0,0,4,2,73200000,2.7,2.1,92170552,115497552,1,1,4,14,24,House,3,120
+92,Rural,20,Semnan,Male,25,1,12,Secondary,Employed,Married,1,0,0,3,1,133043560,2.2,1.8,49723000,167710120,1,1,3,11,23,Rental,5,70
+92,Rural,20,Semnan,Male,65,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,24000000,1.7,1.5,128208000,3.00E+07,1,1,3,11,23,Free,2,90
+92,Rural,10,Isfahan,Male,80,0,0,Illiterate,Income without Work,Married,0,0,1,3,0,78000000,2.4,2,105454200,143695500,1,1,4,14,24,House,3,60
+92,Rural,20,Semnan,Male,28,1,12,Secondary,Employed,Married,1,0,0,3,1,41584280,2.2,1.8,69975000,68307560,1,1,3,11,23,Rental,5,70
+92,Rural,15,Lorestan,Male,54,1,5,Primary,Income without Work,Married,0,0,1,5,1,109200000,3.6,2.8,164296000,156350000,1,1,4,14,24,House,4,150
+92,Rural,6,Khouzestan,Male,22,1,6,Primary,Employed,Married,1,0,0,3,1,48500000,2.2,1.8,99018000,83390000,1,1,4,15,24,Free,2,20
+92,Rural,29,South Khorasan,Male,31,1,9,Secondary,Employed,Married,1,0,0,3,1,45500000,2.2,1.8,125376612,111338000,1,1,4,14,24,Bonded,3,60
+92,Rural,23,Tehran,Male,50,0,0,Illiterate,Employed,Married,1,0,0,4,2,77593333,2.7,2.1,100706344,138539678,1,1,4,14,24,House,3,60
+92,Rural,1,Guilan,Female,36,1,7,Secondary,Income without Work,Widowed,0,0,1,2,1,28400000,1.5,1.3,155764188,51294388,NA,1,4,14,24,House,4,85
+92,Rural,3,East Azerbaijan,Male,73,1,6,Primary,Employed,Married,1,0,0,2,0,84660000,1.7,1.5,130419776,130518776,1,1,3,11,21,House,3,70
+92,Rural,28,North Khorasan,Male,65,0,0,Illiterate,Employed,Married,1,0,0,2,0,39200000,1.7,1.5,68966776,64848776,1,1,3,11,23,House,4,120
+92,Rural,10,Isfahan,Male,50,1,6,Primary,Employed,Married,1,0,0,8,4,192000000,5.1,3.7,158863300,238800000,1,1,4,14,24,Bonded,4,90
+92,Rural,30,Alborz,Male,25,0,0,Illiterate,Employed,Married,1,0,0,3,1,55000000,2.2,1.8,118253000,62200000,1,1,4,14,24,Rental,4,90
+92,Rural,20,Semnan,Male,65,0,0,Illiterate,Income without Work,Married,0,0,1,2,0,64025000,1.7,1.5,47254000,81345000,1,1,4,14,24,House,5,100
+92,Rural,2,Mazandaran,Male,42,1,5,Primary,Employed,Married,1,0,0,4,1,71950000,2.9,2.3,145035000,117734000,1,1,4,14,24,House,5,110
+92,Rural,15,Lorestan,Male,38,1,5,Primary,Employed,Married,1,0,0,5,2,47200000,3.4,2.6,202010940,90121940,1,1,3,11,21,House,3,70
+92,Rural,0,Markazi,Male,40,1,9,Secondary,Employed,Married,1,0,0,5,3,107000000,3.2,2.4,154037940,148835940,1,1,4,14,24,House,3,70
+92,Rural,10,Isfahan,Male,39,1,9,Secondary,Employed,Married,1,0,0,4,2,68000000,2.7,2.1,243214500,131400000,1,1,4,14,24,House,4,100
+92,Rural,7,Fars,Male,41,1,8,Secondary,Employed,Married,1,0,0,6,3,219000000,3.9,2.9,222791328,301154328,1,1,3,11,25,House,5,130
+92,Rural,23,Tehran,Male,69,1,6,Primary,Income without Work,Married,0,0,1,2,0,81400000,1.7,1.5,112922000,154852000,1,1,3,12,23,House,3,90
+92,Rural,8,Kerman,Male,60,1,5,Primary,Employed,Married,1,0,0,5,1,151000000,3.6,2.8,220255940,199321940,1,1,3,11,21,House,4,110
+92,Rural,7,Fars,Male,58,1,9,Secondary,Employed,Married,1,0,0,6,2,128192668,4.1,3.1,158781041,219402884,1,1,4,14,24,House,6,170
+92,Rural,23,Tehran,Male,64,1,8,Secondary,Income without Work,Married,0,0,1,2,0,77352000,1.7,1.5,114704000,144432000,1,1,4,14,24,House,3,80
+92,Rural,5,Kermanshah,Male,31,1,4,Primary,Employed,Married,1,0,0,3,0,55500000,2.4,2,192242764,93583164,1,1,3,11,21,Free,3,80
+92,Rural,13,Hamedan,Male,40,1,6,Primary,Employed,Married,1,0,0,4,2,32800000,2.7,2.1,114363552,76617552,1,1,3,11,21,House,3,70
+92,Rural,15,Lorestan,Male,39,1,12,Secondary,Employed,Married,1,0,0,3,1,60000000,2.2,1.8,101783164,93853164,1,1,4,14,24,House,3,60
+92,Rural,2,Mazandaran,Male,40,1,9,Secondary,Employed,Married,1,0,0,4,1,121500000,2.9,2.3,160660352,163877552,1,1,4,14,24,Rental,4,80
+92,Rural,17,Kohgiluye & Boyerahmad,Male,58,1,6,Primary,Employed,Married,1,0,0,6,1,78000000,4.3,3.3,220486000,148872000,1,1,4,14,24,Rental,3,130
+92,Rural,7,Fars,Male,30,1,9,Secondary,Employed,Married,1,0,0,3,1,72000000,2.2,1.8,83427164,114361164,1,1,3,13,23,Rental,1,20
+92,Rural,5,Kermanshah,Male,52,1,12,Secondary,Employed,Married,1,0,0,6,2,59050000,4.1,3.1,143300328,110688328,1,1,3,11,23,House,4,110
+92,Rural,7,Fars,Male,34,1,14,University,Employed,Married,1,0,0,4,2,71640000,2.7,2.1,70098000,130548000,1,1,4,14,24,House,4,150
+92,Rural,9,Razavi Khorasan,Male,31,1,16,University,Employed,Married,1,0,0,3,1,135000000,2.2,1.8,145641777,155559110,1,1,4,14,24,Free,1,20
+92,Rural,4,West Azerbaijan,Male,52,1,6,Primary,Employed,Married,1,0,0,7,3,320390000,4.6,3.4,247260716,443630716,1,1,3,11,21,House,5,250
+92,Rural,7,Fars,Male,47,1,7,Secondary,Employed,Married,1,0,0,5,1,128200000,3.6,2.8,159727128,189426328,1,1,4,14,24,House,5,110
+92,Rural,4,West Azerbaijan,Male,33,1,5,Primary,Employed,Married,1,0,0,4,2,80000000,2.7,2.1,193717552,112697552,1,1,3,11,23,House,4,100
+92,Rural,26,Qazvin,Male,31,1,9,Secondary,Employed,Married,1,0,0,2,0,64200004,1.7,1.5,79658996,95476002,1,1,4,14,24,Rental,3,80
+92,Rural,1,Guilan,Male,41,0,0,Illiterate,Employed,Married,1,0,0,3,1,60324000,2.2,1.8,91743200,105552000,NA,1,4,14,24,House,3,80
+92,Rural,9,Razavi Khorasan,Male,51,1,1,Primary,Employed,Married,1,0,0,3,1,29000000,2.2,1.8,169231000,93578000,1,1,3,11,23,House,2,80
+92,Rural,3,East Azerbaijan,Male,52,1,9,Secondary,Employed,Married,1,0,0,4,2,70208000,2.7,2.1,98521000,129180000,1,1,4,14,24,House,3,50
+92,Rural,29,South Khorasan,Male,40,1,9,Secondary,Employed,Married,1,0,0,5,3,72000000,3.2,2.4,171189718,124648680,1,1,3,11,23,House,5,120
+92,Rural,14,Chaharmahal & Bakhtiari,Male,40,1,6,Primary,Employed,Married,1,0,0,6,4,50000000,3.7,2.7,147867829,116771429,1,1,4,14,24,House,4,200
+92,Rural,0,Markazi,Male,46,1,6,Primary,Employed,Married,1,0,0,4,1,54100000,2.9,2.3,184618552,111277552,1,1,4,14,24,House,3,90
+92,Rural,23,Tehran,Male,28,1,7,Secondary,Employed,Married,1,0,0,3,1,62153333,2.2,1.8,199498574,131800908,1,1,4,14,24,House,3,65
